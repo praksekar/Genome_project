@@ -1,0 +1,871 @@
+cluster_id	category	chr	start	end	n_features	n_bystanders	Number of Genes	Genes Pos Correl	Pos Correlation Avg	Genes Neg Correl	Neg Correlation Avg
+C1	PF00004	super_23	322494	355885	2	0	1
+C2	PF00005	super_14	3322300	3336282	2	0	1
+C3	PF00005	super_28	1567022	1597191	2	0	1
+C4	PF00005	super_4	800191	826668	2	0	1
+C5	PF00005	super_4	1162473	1189637	2	0	1
+C6	PF00005	super_40	401531	427795	2	0	1
+C7	PF00005	super_41	583749	638504	3	0	2	Pairs: 1, Sphfalx0041s0027 (ABC-transporter N-terminal) Sphfalx0041s0028 (ABC-transporter N-terminal)	0.7161404309783383	Pairs: 0,	0
+C8	PF00006	super_92	739102	749498	2	0	1
+C9	PF00010	super_328	78735	108182	2	1	2	Pairs: 1, Sphfalx0328s0010 (Acyl-CoA dehydrogenase, C-terminal domain) Sphfalx0328s0011 (Helix-loop-helix DNA-binding domain)	0.2562574975567431	Pairs: 0,	0
+C10	PF00011	super_9	1300652	1304229	2	0	1
+C11	PF00011	super_66	910913	914402	2	0	1
+C12	PF00011	super_62	1451492	1454152	2	0	1
+C13	PF00011	super_25	1898524	1902605	2	0	1
+C14	PF00011	super_107	1063082	1076325	2	0	1
+C15	PF00011	super_62	1225456	1228878	2	0	1
+C16	PF00026	super_179	301622	327482	2	0	1
+C17	PF00027	super_78	452649	457431	2	0	1
+C18	PF00043	super_513	12799	30359	3	0	2	Pairs: 1, Sphfalx0513s0002 (Glutathione S-transferase, C-terminal domain) Sphfalx0513s0003 (Glutathione S-transferase, C-terminal domain)	0.911909875963647	Pairs: 0,	0
+C19	PF00043	super_76	803869	810145	2	0	1
+C20	PF00043	super_56	1300820	1317794	2	0	1
+C21	PF00043	super_51	264816	283373	2	0	1
+C22	PF00043	super_18	3055161	3084545	2	2	3	Pairs: 3, Sphfalx0018s0222 (NRDE-2, necessary for RNA interference) Sphfalx0018s0223 (tRNA methyl transferase) Sphfalx0018s0224 (Glutathione S-transferase, C-terminal domain)	0.9207559569943192	Pairs: 0,	0
+C23	PF00043	super_5	3219610	3242459	2	0	1
+C24	PF00043	super_163	89719	105158	3	1	3	Pairs: 1, Sphfalx0163s0009 (Glutathione S-transferase, C-terminal domain) Sphfalx0163s0010 (Glutathione S-transferase, C-terminal domain)	0.33559379738826645	Pairs: 2, Sphfalx0163s0008 (Ribosomal L25p family) Sphfalx0163s0009 (Glutathione S-transferase, C-terminal domain) Sphfalx0163s0010 (Glutathione S-transferase, C-terminal domain)	-0.04770321444792154
+C25	PF00043	super_5	3306142	3336723	4	0	3	Pairs: 3, Sphfalx0005s0230 (Glutathione S-transferase, N-terminal domain) Sphfalx0005s0231 (Glutathione S-transferase, C-terminal domain) Sphfalx0005s0232 (Glutathione S-transferase, C-terminal domain)	0.8775430586372691	Pairs: 0,	0
+C26	PF00067	super_27	387126	389736	2	0	1
+C27	PF00067	super_92	529942	560149	3	1	3	Pairs: 3, Sphfalx0092s0033 (No Desc) Sphfalx0092s0034 (Cytochrome P450) Sphfalx0092s0035 (Cytochrome P450)	0.7778258603830288	Pairs: 0,	0
+C28	PF00067	super_66	615542	637106	2	0	1
+C29	PF00067	super_56	446303	459831	2	0	1
+C30	PF00067	super_52	91045	132501	3	1	3	Pairs: 1, Sphfalx0052s0008 (Cytochrome P450) Sphfalx0052s0009 (Cytochrome P450)	0.9398453254788162	Pairs: 2, Sphfalx0052s0007 (No Desc) Sphfalx0052s0008 (Cytochrome P450) Sphfalx0052s0009 (Cytochrome P450)	-0.41235059204271984
+C31	PF00067	super_5	2880903	2892496	2	1	2	Pairs: 1, Sphfalx0005s0201 (No Desc) Sphfalx0005s0202 (Cytochrome P450)	0.7702689116044313	Pairs: 0,	0
+C32	PF00067	super_46	125071	139554	2	0	1
+C33	PF00067	super_42	996779	999610	2	0	1
+C34	PF00067	super_362	1715	13921	2	0	1
+C35	PF00067	super_35	2390296	2417590	2	1	2	Pairs: 0,	0	Pairs: 1, Sphfalx0035s0151 (Helitron helicase-like domain at N-terminus) Sphfalx0035s0152 (Cytochrome P450)	-0.15983093365411363
+C36	PF00067	super_310	41208	59329	2	0	1
+C37	PF00067	super_308	8990	22020	3	0	2	Pairs: 1, Sphfalx0308s0002 (Cytochrome P450) Sphfalx0308s0003 (Cytochrome P450)	0.9775461878124007	Pairs: 0,	0
+C38	PF00067	super_253	31231	66027	3	1	3	Pairs: 2, Sphfalx0253s0004 (short chain dehydrogenase) Sphfalx0253s0005 (Cytochrome P450) Sphfalx0253s0006 (Cytochrome P450)	0.4780748915936953	Pairs: 1, Sphfalx0253s0004 (short chain dehydrogenase) Sphfalx0253s0005 (Cytochrome P450)	-0.44022651229882026
+C39	PF00067	super_212	13402	26099	2	0	1
+C40	PF00067	super_218	50815	71488	2	0	1
+C41	PF00067	super_23	991594	1000637	2	0	1
+C42	PF00067	super_0	6987281	7004752	2	0	1
+C43	PF00067	super_117	389662	401182	2	0	1
+C44	PF00067	super_130	375069	404522	3	1	3	Pairs: 2, Sphfalx0130s0032 (No Desc) Sphfalx0130s0033 (Cytochrome P450) Sphfalx0130s0034 (Cytochrome P450)	0.34531247193499004	Pairs: 1, Sphfalx0130s0033 (Cytochrome P450) Sphfalx0130s0034 (Cytochrome P450)	-0.08560629388312972
+C45	PF00067	super_132	243835	295089	3	0	2	Pairs: 1, Sphfalx0132s0014 (Cytochrome P450) Sphfalx0132s0015 (Cytochrome P450)	0.7481415756207668	Pairs: 0,	0
+C46	PF00067	super_132	358760	360625	2	0	1
+C47	PF00067	super_12	588355	604183	2	0	1
+C48	PF00067	super_167	215029	245252	3	2	4	Pairs: 1, Sphfalx0167s0018 (Cytochrome P450) Sphfalx0167s0019 (Cytochrome P450)	0.75959649560194	Pairs: 2, Sphfalx0167s0017 (Retroviral aspartyl protease) Sphfalx0167s0018 (Cytochrome P450) Sphfalx0167s0019 (Cytochrome P450)	-0.098940804819395
+C49	PF00067	super_187	222981	231450	2	0	1
+C50	PF00067	super_196	126540	148620	3	1	2	Pairs: 1, Sphfalx0196s0009 (Cytochrome P450) Sphfalx0196s0010 (Cytochrome P450)	0.37720766128349986	Pairs: 0,	0
+C51	PF00067	super_21	2558888	2648573	5	2	6	Pairs: 15, Sphfalx0021s0161 (Enoyl-(Acyl carrier protein) reductase) Sphfalx0021s0162 (Enoyl-(Acyl carrier protein) reductase) Sphfalx0021s0163 (Cytochrome P450) Sphfalx0021s0164 (Cytochrome P450) Sphfalx0021s0165 (Cytochrome P450) Sphfalx0021s0166 (Cytochrome P450)	0.724065705318157	Pairs: 0,	0
+C52	PF00067	super_16	2399574	2411321	2	1	2	Pairs: 1, Sphfalx0016s0191 (NADP oxidoreductase coenzyme F420-dependent) Sphfalx0016s0192 (Cytochrome P450)	0.2931891224950176	Pairs: 0,	0
+C53	PF00069	super_39	1789885	1824585	2	0	1
+C54	PF00069	super_245	258125	284497	2	0	1
+C55	PF00069	super_258	5200	9100	2	0	1
+C56	PF00069	super_29	1771079	1787152	2	0	1
+C57	PF00069	super_245	168686	221487	3	1	3	Pairs: 3, Sphfalx0245s0015 (No Desc) Sphfalx0245s0016 (Leucine rich repeat N-terminal domain) Sphfalx0245s0017 (Leucine rich repeat N-terminal domain)	0.7294860505145838	Pairs: 0,	0
+C58	PF00069	super_37	672195	683559	2	0	1
+C59	PF00069	super_376	62490	89255	2	1	2	Pairs: 1, Sphfalx0376s0006 (ATPase family associated with various cellular activities (AAA)) Sphfalx0376s0007 (Jacalin-like lectin domain)	0.20534130641706191	Pairs: 0,	0
+C60	PF00069	super_39	1628750	1691124	3	2	4	Pairs: 6, Sphfalx0039s0102 (Helitron helicase-like domain at N-terminus) Sphfalx0039s0103 (Leucine rich repeat) Sphfalx0039s0104 (No Desc) Sphfalx0039s0105 (Protein kinase domain)	0.3247705763531316	Pairs: 0,	0
+C61	PF00069	super_40	2279607	2312485	2	1	2	Pairs: 1, Sphfalx0040s0200 (Leucine Rich Repeat) Sphfalx0040s0201 (Protein kinase domain)	0.8744144249459112	Pairs: 0,	0
+C62	PF00069	super_54	66621	86561	2	1	2	Pairs: 1, Sphfalx0054s0010 (Protein tyrosine kinase) Sphfalx0054s0011 (Protein kinase domain)	0.6886704963286182	Pairs: 0,	0
+C63	PF00069	super_451	9197	30237	2	0	1
+C64	PF00069	super_464	42523	50127	2	0	1
+C65	PF00069	super_472	10633	40900	2	1	2	Pairs: 1, Sphfalx0472s0003 (Protein tyrosine kinase) Sphfalx0472s0004 (Protein kinase domain)	0.9084967117767605	Pairs: 0,	0
+C66	PF00069	super_49	982451	1010681	2	1	2	Pairs: 1, Sphfalx0049s0063 (No Desc) Sphfalx0049s0064 (Protein kinase domain)	0.6222928000651788	Pairs: 0,	0
+C67	PF00069	super_534	2	27245	2	1	2	Pairs: 1, Sphfalx0534s0002 (No Desc) Sphfalx0534s0003 (Protein kinase domain)	0.8954430566696184	Pairs: 0,	0
+C68	PF00069	super_59	997533	1020089	2	0	1
+C69	PF00069	super_61	790411	799220	2	0	1
+C70	PF00069	super_8	2392447	2417819	2	0	1
+C71	PF00069	super_238	290834	318833	2	1	2	Pairs: 1, Sphfalx0238s0034 (Transmembrane family, TMEM144 of transporters) Sphfalx0238s0035 (Leucine Rich Repeat)	0.7773341134988841	Pairs: 0,	0
+C72	PF00069	super_450	4495	17587	2	0	1
+C73	PF00069	super_238	189659	208555	2	0	1
+C74	PF00069	super_0	663740	689042	2	2	3	Pairs: 1, Sphfalx0000s0068 (Domain of unknown function (DUF1995)) Sphfalx0000s0070 (Legume lectin domain)	0.8162959850153019	Pairs: 2, Sphfalx0000s0068 (Domain of unknown function (DUF1995)) Sphfalx0000s0069 (Plant invertase/pectin methylesterase inhibitor) Sphfalx0000s0070 (Legume lectin domain)	-0.024177477947005983
+C75	PF00069	super_210	241004	284496	3	0	2	Pairs: 1, Sphfalx0210s0016 (Protein kinase domain) Sphfalx0210s0017 (Protein kinase domain)	0.5483846085279461	Pairs: 0,	0
+C76	PF00069	super_0	6008385	6041779	2	1	2	Pairs: 0,	0	Pairs: 1, Sphfalx0000s0398 (Uncharacterized protein family UPF0016) Sphfalx0000s0399 (Protein kinase domain)	-0.08420608724858766
+C77	PF00069	super_0	11460426	11489099	2	2	3	Pairs: 1, Sphfalx0000s0746 (Ricin-type beta-trefoil lectin domain-like) Sphfalx0000s0748 (Leucine Rich Repeat)	0.46314494133063366	Pairs: 0,	0
+C78	PF00069	super_103	553254	599279	3	1	3	Pairs: 3, Sphfalx0103s0041 (Domain of unknown function (DUF4371)) Sphfalx0103s0042 (Protein kinase domain) Sphfalx0103s0043 (Protein kinase domain)	0.4060689497288028	Pairs: 0,	0
+C79	PF00069	super_232	189405	214421	2	0	1
+C80	PF00069	super_109	86560	115184	2	0	1
+C81	PF00069	super_117	177299	191618	2	0	1
+C82	PF00069	super_12	2430633	2453557	2	0	1
+C83	PF00069	super_131	129058	157385	2	1	2	Pairs: 1, Sphfalx0131s0012 (No Desc) Sphfalx0131s0013 (Protein of unknown function (DUF1221))	0.7826932479033869	Pairs: 0,	0
+C84	PF00069	super_141	214369	232210	2	1	2	Pairs: 1, Sphfalx0141s0021 (S phase cyclin A-associated protein in the endoplasmic reticulum) Sphfalx0141s0022 (Protein kinase domain)	0.565311929262058	Pairs: 0,	0
+C85	PF00069	super_105	1062069	1094786	3	1	3	Pairs: 1, Sphfalx0105s0066 (BAH domain) Sphfalx0105s0068 (Jacalin-like lectin domain)	0.6789958684556598	Pairs: 2, Sphfalx0105s0066 (BAH domain) Sphfalx0105s0067 (BAH domain) Sphfalx0105s0068 (Jacalin-like lectin domain)	-0.44644138139019435
+C86	PF00069	super_146	340670	353400	2	0	1
+C87	PF00069	super_146	455436	486794	2	0	1
+C88	PF00069	super_146	531941	548611	2	1	2	Pairs: 1, Sphfalx0146s0036 (No Desc) Sphfalx0146s0037 (Protein tyrosine kinase)	0.7644478783376619	Pairs: 0,	0
+C89	PF00069	super_148	652333	732067	4	5	8	Pairs: 20, Sphfalx0148s0031 (Reverse transcriptase (RNA-dependent DNA polymerase)) Sphfalx0148s0032 (No Desc) Sphfalx0148s0033 (Leucine rich repeat N-terminal domain) Sphfalx0148s0034 (Chlorophyll A-B binding protein) Sphfalx0148s0035 (Leucine rich repeat N-terminal domain) Sphfalx0148s0036 (PHD-finger) Sphfalx0148s0037 (No Desc) Sphfalx0148s0038 (Leucine Rich Repeat)	0.37622255675937133	Pairs: 8, Sphfalx0148s0031 (Reverse transcriptase (RNA-dependent DNA polymerase)) Sphfalx0148s0032 (No Desc) Sphfalx0148s0033 (Leucine rich repeat N-terminal domain) Sphfalx0148s0034 (Chlorophyll A-B binding protein) Sphfalx0148s0035 (Leucine rich repeat N-terminal domain) Sphfalx0148s0036 (PHD-finger) Sphfalx0148s0038 (Leucine Rich Repeat)	-0.2285035230829888
+C90	PF00069	super_16	3043226	3074631	2	0	1
+C91	PF00069	super_17	1041451	1052137	2	0	1
+C92	PF00069	super_181	374849	433781	4	3	6	Pairs: 11, Sphfalx0181s0036 (LSM domain ) Sphfalx0181s0037 (Protein kinase domain) Sphfalx0181s0038 (LSM domain ) Sphfalx0181s0039 (Protein kinase domain) Sphfalx0181s0040 (LSM domain ) Sphfalx0181s0041 (Legume lectin domain)	0.45012568701882805	Pairs: 4, Sphfalx0181s0036 (LSM domain ) Sphfalx0181s0039 (Protein kinase domain) Sphfalx0181s0040 (LSM domain ) Sphfalx0181s0041 (Legume lectin domain)	-0.2180053209418541
+C93	PF00069	super_19	535184	558084	2	1	2	Pairs: 1, Sphfalx0019s0035 (No Desc) Sphfalx0019s0036 (Protein kinase domain)	0.7570316890754059	Pairs: 0,	0
+C94	PF00069	super_144	2215	27564	2	2	3	Pairs: 3, Sphfalx0144s0002 (BAH domain) Sphfalx0144s0003 (Jacalin-like lectin domain) Sphfalx0144s0004 (No Desc)	0.7001366154370882	Pairs: 0,	0
+C95	PF00076	super_67	1459827	1465400	2	0	1
+C96	PF00076	super_65	1302335	1317384	2	0	1
+C97	PF00076	super_44	2001187	2014423	2	0	1
+C98	PF00076	super_2	3049221	3070868	2	0	1
+C99	PF00076	super_26	1579792	1586475	2	1	2	Pairs: 1, Sphfalx0026s0106 (No Desc) Sphfalx0026s0107 (RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain))	0.9735083771369921	Pairs: 0,	0
+C100	PF00076	super_1	4201251	4225006	2	1	2	Pairs: 0,	0	Pairs: 0,	0
+C101	PF00076	super_28	1336153	1345364	2	2	2	Pairs: 1, Sphfalx0028s0096 (No Desc) Sphfalx0028s0097 (Zn-finger in Ran binding protein and others)	0.9192945504908057	Pairs: 0,	0
+C102	PF00078	super_337	17453	29968	2	0	1
+C103	PF00078	super_9	1328056	1338860	2	0	1
+C104	PF00078	super_8	1942322	1957574	2	0	1
+C105	PF00078	super_5	82169	94437	2	0	1
+C106	PF00078	super_304	77750	97988	2	0	1
+C107	PF00078	super_278	16505	46936	2	0	1
+C108	PF00078	super_186	393193	418782	2	0	1
+C109	PF00078	super_160	357055	369309	2	0	1
+C110	PF00078	super_155	9242	36257	2	0	1
+C111	PF00078	super_10	2495182	2507305	3	0	2	Pairs: 0,	0	Pairs: 0,	0
+C112	PF00078	super_1	6710180	6719692	2	0	1
+C113	PF00078	super_19	2810796	2822574	2	0	1
+C114	PF00082	super_4	5421264	5435821	2	0	1
+C115	PF00091	super_35	1459105	1487079	3	0	2	Pairs: 1, Sphfalx0035s0095 (Tubulin C-terminal domain) Sphfalx0035s0096 (Tubulin C-terminal domain)	0.7901975887141648	Pairs: 0,	0
+C116	PF00091	super_0	1641091	1664174	3	0	2	Pairs: 1, Sphfalx0000s0120 (Tubulin C-terminal domain) Sphfalx0000s0121 (Tubulin C-terminal domain)	0.06679439620028434	Pairs: 0,	0
+C117	PF00091	super_161	152943	165878	2	0	1
+C118	PF00097	super_307	173283	180197	2	0	1
+C119	PF00098	super_282	77156	86386	2	1	2	Pairs: 0,	0	Pairs: 0,	0
+C120	PF00098	super_34	2472832	2477827	2	0	1
+C121	PF00098	super_386	87227	94679	2	0	1
+C122	PF00098	super_3	2622637	2639584	2	1	1
+C123	PF00098	super_61	1801678	1809815	2	0	1
+C124	PF00098	super_73	1045489	1055416	2	0	1
+C125	PF00098	super_241	169066	177994	2	0	1
+C126	PF00098	super_391	531	12922	2	0	1
+C127	PF00098	super_241	101778	131989	2	1	2	Pairs: 0,	0	Pairs: 0,	0
+C128	PF00098	super_25	10765	31068	2	2	3	Pairs: 3, Sphfalx0025s0002 (No Desc) Sphfalx0025s0003 (Tim17/Tim22/Tim23/Pmp24 family) Sphfalx0025s0004 (Zinc knuckle)	0.623325486613505	Pairs: 0,	0
+C129	PF00098	super_19	2810796	2822574	2	0	1
+C130	PF00098	super_188	203741	209441	2	0	1
+C131	PF00098	super_185	1143	35899	5	1	5	Pairs: 1, Sphfalx0185s0004 (Zinc knuckle) Sphfalx0185s0005 (Zinc knuckle)	0.9453444078733813	Pairs: 0,	0
+C132	PF00098	super_175	7247	23887	2	1	2	Pairs: 0,	0	Pairs: 0,	0
+C133	PF00098	super_158	399022	412773	2	0	1
+C134	PF00098	super_147	453530	490469	3	1	3	Pairs: 3, Sphfalx0147s0029 (Zinc knuckle) Sphfalx0147s0030 (Domain of unknown function (DUF4219)) Sphfalx0147s0031 (Zinc knuckle)	0.43241743351032386	Pairs: 0,	0
+C135	PF00098	super_118	878116	898960	2	1	2	Pairs: 0,	0	Pairs: 0,	0
+C136	PF00098	super_107	113692	138752	2	2	3	Pairs: 1, Sphfalx0107s0012 (Domain of unknown function (DUF4219)) Sphfalx0107s0014 (Zinc knuckle)	0.9354945537115701	Pairs: 0,	0
+C137	PF00098	super_1	6710180	6719692	2	0	1
+C138	PF00098	super_205	208651	214157	2	0	1
+C139	PF00106	super_2	4696018	4705294	2	0	1
+C140	PF00106	super_591	2	15588	2	1	2	Pairs: 1, Sphfalx0591s0002 (Enoyl-(Acyl carrier protein) reductase) Sphfalx0591s0003 (short chain dehydrogenase)	0.8115401459386641	Pairs: 0,	0
+C141	PF00107	super_70	733645	786348	7	1	7	Pairs: 21, Sphfalx0070s0050 (Alcohol dehydrogenase GroES-like domain) Sphfalx0070s0051 (Alcohol dehydrogenase GroES-like domain) Sphfalx0070s0052 (No Desc) Sphfalx0070s0053 (Alcohol dehydrogenase GroES-like domain) Sphfalx0070s0054 (Alcohol dehydrogenase GroES-like domain) Sphfalx0070s0055 (Alcohol dehydrogenase GroES-like domain) Sphfalx0070s0056 (Alcohol dehydrogenase GroES-like domain)	0.8231649225334907	Pairs: 0,	0
+C142	PF00107	super_25	2817187	2824060	2	0	1
+C143	PF00107	super_140	354068	376109	2	0	1
+C144	PF00107	super_11	151257	168829	3	0	2	Pairs: 0,	0	Pairs: 1, Sphfalx0011s0016 (Zinc-binding dehydrogenase) Sphfalx0011s0017 (Alcohol dehydrogenase GroES-like domain)	-0.30826815359737264
+C145	PF00119	super_9	4517531	4539556	2	3	4	Pairs: 1, Sphfalx0009s0319 (Ycf66 protein N-terminus) Sphfalx0009s0321 (Ribosomal protein S2)	0.02060107294073665	Pairs: 0,	0
+C146	PF00120	super_16	410972	429027	2	0	1
+C147	PF00120	super_239	265269	283068	2	0	1
+C148	PF00122	super_74	973999	1021040	2	0	1
+C149	PF00125	super_297	81659	85353	2	0	1
+C150	PF00134	super_156	629591	641178	2	2	3	Pairs: 3, Sphfalx0156s0053 (No Desc) Sphfalx0156s0054 (No Desc) Sphfalx0156s0055 (Cyclin, C-terminal domain)	0.5203478847569993	Pairs: 0,	0
+C151	PF00139	super_181	408519	433781	2	1	2	Pairs: 0,	0	Pairs: 1, Sphfalx0181s0040 (LSM domain ) Sphfalx0181s0041 (Legume lectin domain)	-0.3905221976221253
+C152	PF00139	super_210	193503	212752	2	0	1
+C153	PF00139	super_210	258101	284496	2	0	1
+C154	PF00141	super_4	633397	660571	2	0	1
+C155	PF00141	super_68	968211	991802	2	0	1
+C156	PF00141	super_3	4457878	4461502	2	0	1
+C157	PF00141	super_75	760087	779754	2	2	3	Pairs: 3, Sphfalx0075s0042 (pfkB family carbohydrate kinase) Sphfalx0075s0043 (Protein of unknown function (DUF1295)) Sphfalx0075s0044 (Peroxidase)	0.5583175008961602	Pairs: 0,	0
+C158	PF00141	super_7	1054291	1058442	2	0	1
+C159	PF00141	super_277	31328	57729	2	1	2	Pairs: 0,	0	Pairs: 0,	0
+C160	PF00141	super_2	690838	720417	3	1	3	Pairs: 1, Sphfalx0002s0053 (Acetohydroxy acid isomeroreductase, catalytic domain) Sphfalx0002s0055 (Peroxidase)	0.783239978947026	Pairs: 2, Sphfalx0002s0053 (Acetohydroxy acid isomeroreductase, catalytic domain) Sphfalx0002s0054 (Peroxidase) Sphfalx0002s0055 (Peroxidase)	-0.09680513830125909
+C161	PF00141	super_157	550617	573475	2	0	1
+C162	PF00141	super_154	654917	691116	6	0	5	Pairs: 8, Sphfalx0154s0050 (Peroxidase) Sphfalx0154s0051 (Peroxidase) Sphfalx0154s0052 (Peroxidase) Sphfalx0154s0053 (Peroxidase) Sphfalx0154s0054 (Peroxidase)	0.7149964875098046	Pairs: 2, Sphfalx0154s0052 (Peroxidase) Sphfalx0154s0053 (Peroxidase) Sphfalx0154s0054 (Peroxidase)	-0.032530537759070256
+C163	PF00141	super_140	206123	221583	2	1	2	Pairs: 0,	0	Pairs: 1, Sphfalx0140s0011 (No Desc) Sphfalx0140s0012 (Peroxidase)	-0.5064451831210413
+C164	PF00141	super_132	760934	775108	2	0	1
+C165	PF00141	super_132	709977	734439	2	2	3	Pairs: 0,	0	Pairs: 1, Sphfalx0132s0044 (No Desc) Sphfalx0132s0045 (Peroxidase)	-0.25903458017955333
+C166	PF00141	super_0	2894229	2910611	2	0	1
+C167	PF00149	super_46	82439	101146	2	0	1
+C168	PF00153	super_190	438498	453554	2	2	3	Pairs: 3, Sphfalx0190s0025 (No Desc) Sphfalx0190s0026 (Exostosin family) Sphfalx0190s0027 (Mitochondrial carrier protein)	0.4886844075094898	Pairs: 0,	0
+C169	PF00153	super_43	1795595	1822007	2	1	2	Pairs: 1, Sphfalx0043s0131 (Caulimovirus viroplasmin) Sphfalx0043s0132 (Mitochondrial carrier protein)	0.28082740959833535	Pairs: 0,	0
+C170	PF00153	super_46	376090	396559	2	1	2	Pairs: 1, Sphfalx0046s0029 (PAS domain) Sphfalx0046s0030 (Mitochondrial carrier protein)	0.6345634005989299	Pairs: 0,	0
+C171	PF00153	super_7	3550381	3557877	2	0	1
+C172	PF00153	super_96	1010355	1033933	2	2	3	Pairs: 2, Sphfalx0096s0080 (Integrase core domain) Sphfalx0096s0081 (gag-polypeptide of LTR copia-type) Sphfalx0096s0082 (Mitochondrial carrier protein)	0.10697522924256059	Pairs: 1, Sphfalx0096s0080 (Integrase core domain) Sphfalx0096s0081 (gag-polypeptide of LTR copia-type)	-0.20686912240306657
+C173	PF00160	super_0	3546048	3570812	2	0	1
+C174	PF00164	super_16	2860375	2866037	2	0	1
+C175	PF00170	super_59	662022	688597	2	3	4	Pairs: 1, Sphfalx0059s0042 (Hpt domain) Sphfalx0059s0044 (No Desc)	0.8277205855120328	Pairs: 5, Sphfalx0059s0042 (Hpt domain) Sphfalx0059s0043 (No Desc) Sphfalx0059s0044 (No Desc) Sphfalx0059s0045 (G-box binding protein MFMR)	-0.18887513431229996
+C176	PF00171	super_232	68421	96515	2	0	1
+C177	PF00179	super_553	20791	22269	2	0	1
+C178	PF00179	super_6	684330	706954	2	0	1
+C179	PF00179	super_9	3719258	3726896	2	0	1
+C180	PF00187	super_20	2889742	2917421	2	2	3	Pairs: 1, Sphfalx0020s0221 (Protein tyrosine kinase) Sphfalx0020s0222 (Protein tyrosine kinase)	0.8607011585558382	Pairs: 2, Sphfalx0020s0221 (Protein tyrosine kinase) Sphfalx0020s0222 (Protein tyrosine kinase) Sphfalx0020s0223 (Chitin recognition protein)	-0.12747777256723794
+C181	PF00190	super_112	782247	790365	2	0	1
+C182	PF00190	super_19	1314697	1364695	5	2	6	Pairs: 15, Sphfalx0019s0074 (No Desc) Sphfalx0019s0075 (Cupin) Sphfalx0019s0076 (Cupin) Sphfalx0019s0077 (No Desc) Sphfalx0019s0078 (Cupin) Sphfalx0019s0079 (Cupin)	0.8586522111375542	Pairs: 0,	0
+C183	PF00190	super_196	451536	458851	2	0	1
+C184	PF00190	super_500	1326	21057	2	0	1
+C185	PF00201	super_19	447029	478700	4	1	3	Pairs: 3, Sphfalx0019s0027 (UDP-glucoronosyl and UDP-glucosyl transferase) Sphfalx0019s0028 (UDP-glucoronosyl and UDP-glucosyl transferase) Sphfalx0019s0029 (UDP-glucoronosyl and UDP-glucosyl transferase)	0.8732396802002075	Pairs: 0,	0
+C186	PF00201	super_168	352065	376737	2	0	1
+C187	PF00201	super_16	3630306	3672864	3	0	2	Pairs: 1, Sphfalx0016s0276 (UDP-glucoronosyl and UDP-glucosyl transferase) Sphfalx0016s0277 (UDP-glucoronosyl and UDP-glucosyl transferase)	0.938571194443715	Pairs: 0,	0
+C188	PF00201	super_112	541471	561754	2	0	1
+C189	PF00201	super_101	885897	918556	2	2	3	Pairs: 1, Sphfalx0101s0058 (Protein tyrosine kinase) Sphfalx0101s0060 (UDP-glucoronosyl and UDP-glucosyl transferase)	0.8865355744523521	Pairs: 0,	0
+C190	PF00225	super_99	708788	741676	2	2	3	Pairs: 3, Sphfalx0099s0041 (Cullin protein neddylation domain) Sphfalx0099s0042 (HAD-hyrolase-like) Sphfalx0099s0043 (Kinesin motor domain)	0.4615344362229666	Pairs: 0,	0
+C191	PF00226	super_24	1077062	1111727	3	1	3	Pairs: 3, Sphfalx0024s0069 (Pre-SET motif) Sphfalx0024s0070 (DnaJ central domain) Sphfalx0024s0071 (DnaJ central domain)	0.6462516261102346	Pairs: 0,	0
+C192	PF00226	super_6	2851661	2860884	2	0	1
+C193	PF00226	super_97	1006791	1028546	2	0	1
+C194	PF00227	super_13	3586926	3599925	2	0	1
+C195	PF00227	super_169	506564	509574	2	1	1
+C196	PF00230	super_261	246023	262170	2	0	1
+C197	PF00240	super_0	2553233	2562280	2	1	2	Pairs: 1, Sphfalx0000s0192 (No Desc) Sphfalx0000s0193 (Ubiquitin family)	0.017293144702852637	Pairs: 0,	0
+C198	PF00240	super_0	9291823	9308792	2	0	1
+C199	PF00244	super_53	274015	288075	2	0	1
+C200	PF00248	super_87	445444	461930	2	0	1
+C201	PF00248	super_55	1005920	1054942	3	1	2	Pairs: 1, Sphfalx0055s0065 (Aldo/keto reductase family) Sphfalx0055s0066 (Aldo/keto reductase family)	0.6444490132357361	Pairs: 0,	0
+C202	PF00248	super_206	9502	79139	8	4	11	Pairs: 22, Sphfalx0206s0003 (Aldo/keto reductase family) Sphfalx0206s0004 (NADH-dehyrogenase subunit F, TMs, (complex I) C-terminus) Sphfalx0206s0005 (Aldo/keto reductase family) Sphfalx0206s0006 (Aldo/keto reductase family) Sphfalx0206s0007 (Proton-conducting membrane transporter) Sphfalx0206s0009 (Aldo/keto reductase family) Sphfalx0206s0010 (Aldo/keto reductase family) Sphfalx0206s0011 (Aldo/keto reductase family) Sphfalx0206s0013 (Aldo/keto reductase family)	0.4783073266361104	Pairs: 14, Sphfalx0206s0003 (Aldo/keto reductase family) Sphfalx0206s0004 (NADH-dehyrogenase subunit F, TMs, (complex I) C-terminus) Sphfalx0206s0005 (Aldo/keto reductase family) Sphfalx0206s0006 (Aldo/keto reductase family) Sphfalx0206s0007 (Proton-conducting membrane transporter) Sphfalx0206s0009 (Aldo/keto reductase family) Sphfalx0206s0010 (Aldo/keto reductase family) Sphfalx0206s0011 (Aldo/keto reductase family) Sphfalx0206s0013 (Aldo/keto reductase family)	-0.30872984031564077
+C203	PF00248	super_206	109299	118044	2	0	1
+C204	PF00248	super_206	143341	167912	3	2	4	Pairs: 2, Sphfalx0206s0026 (Stm1) Sphfalx0206s0027 (Transmembrane amino acid transporter protein) Sphfalx0206s0028 (Aldo/keto reductase family)	0.4754728505692658	Pairs: 4, Sphfalx0206s0026 (Stm1) Sphfalx0206s0027 (Transmembrane amino acid transporter protein) Sphfalx0206s0028 (Aldo/keto reductase family) Sphfalx0206s0029 (Aldo/keto reductase family)	-0.16415040791081476
+C205	PF00249	super_140	536327	564569	2	0	1
+C206	PF00249	super_173	291588	316892	2	1	2	Pairs: 1, Sphfalx0173s0029 (No Desc) Sphfalx0173s0030 (Myb-like DNA-binding domain)	0.8843451899699596	Pairs: 0,	0
+C207	PF00249	super_2	2495450	2520757	2	0	1
+C208	PF00249	super_4	3488738	3519649	2	0	1
+C209	PF00249	super_6	3956856	3982149	2	1	2	Pairs: 1, Sphfalx0006s0294 (CoA-ligase) Sphfalx0006s0295 (Myb-like DNA-binding domain)	0.6885494125338802	Pairs: 0,	0
+C210	PF00251	super_31	634086	685066	3	0	2	Pairs: 1, Sphfalx0031s0044 (Glycosyl hydrolases family 32 C terminal) Sphfalx0031s0045 (Glycosyl hydrolases family 32 C terminal)	0.7200203700816165	Pairs: 0,	0
+C211	PF00270	super_16	123746	165308	2	0	1
+C212	PF00270	super_13	2344492	2356348	2	0	1
+C213	PF00270	super_22	1717090	1728804	2	0	1
+C214	PF00271	super_16	123746	165308	2	0	1
+C215	PF00271	super_13	2344492	2356348	2	0	1
+C216	PF00271	super_22	1717090	1728804	2	0	1
+C217	PF00274	super_125	597592	626039	2	3	4	Pairs: 6, Sphfalx0125s0045 (WRC) Sphfalx0125s0046 (DHHC palmitoyltransferase) Sphfalx0125s0047 (No Desc) Sphfalx0125s0048 (Fructose-bisphosphate aldolase class-I)	0.5270908099070385	Pairs: 0,	0
+C218	PF00291	super_7	2660266	2668968	2	0	1
+C219	PF00305	super_216	305098	322940	2	1	2	Pairs: 1, Sphfalx0216s0029 (gag-polypeptide of LTR copia-type) Sphfalx0216s0030 (Lipoxygenase)	0.05076100781198807	Pairs: 0,	0
+C220	PF00313	super_25	10765	31068	2	2	3	Pairs: 3, Sphfalx0025s0002 (No Desc) Sphfalx0025s0003 (Tim17/Tim22/Tim23/Pmp24 family) Sphfalx0025s0004 (Zinc knuckle)	0.623325486613505	Pairs: 0,	0
+C221	PF00314	super_188	96249	118908	2	0	1
+C222	PF00332	super_172	330526	376765	3	0	2	Pairs: 0,	0	Pairs: 1, Sphfalx0172s0022 (Glycosyl hydrolases family 17) Sphfalx0172s0023 (Glycosyl hydrolases family 17)	-0.4388746180545045
+C223	PF00350	super_11	1677961	1710014	2	2	2	Pairs: 1, Sphfalx0011s0104 (No Desc) Sphfalx0011s0105 (Dynamin GTPase effector domain)	0.24422198458997746	Pairs: 0,	0
+C224	PF00350	super_242	285398	308857	2	0	1
+C225	PF00350	super_90	1261557	1284994	2	1	2	Pairs: 1, Sphfalx0090s0108 (PPR repeat) Sphfalx0090s0109 (Dynamin GTPase effector domain)	0.7271180251666837	Pairs: 0,	0
+C226	PF00361	super_206	13502	27706	2	2	3	Pairs: 2, Sphfalx0206s0005 (Aldo/keto reductase family) Sphfalx0206s0006 (Aldo/keto reductase family) Sphfalx0206s0007 (Proton-conducting membrane transporter)	0.2312133750623227	Pairs: 1, Sphfalx0206s0005 (Aldo/keto reductase family) Sphfalx0206s0006 (Aldo/keto reductase family)	-0.4363599793542837
+C227	PF00361	super_359	72381	77085	2	0	1
+C228	PF00385	super_5	82169	94437	2	0	1
+C229	PF00385	super_337	27380	36056	2	0	1
+C230	PF00385	super_10	2499581	2507305	2	0	1
+C231	PF00385	super_24	1329137	1344548	2	0	1
+C232	PF00400	super_0	8157936	8177081	2	2	3	Pairs: 2, Sphfalx0000s0540 (Protein kinase domain) Sphfalx0000s0541 (No Desc) Sphfalx0000s0542 (WD domain, G-beta repeat)	0.5284787830731799	Pairs: 1, Sphfalx0000s0540 (Protein kinase domain) Sphfalx0000s0541 (No Desc)	-0.3109834258895659
+C233	PF00400	super_124	382220	393491	2	0	1
+C234	PF00400	super_181	75152	101303	2	0	1
+C235	PF00400	super_51	774546	812900	2	3	3	Pairs: 3, Sphfalx0051s0064 (No Desc) Sphfalx0051s0065 (Mechanosensitive ion channel) Sphfalx0051s0066 (WD domain, G-beta repeat)	0.5340192820244738	Pairs: 0,	0
+C236	PF00400	super_56	1483633	1497429	2	0	1
+C237	PF00400	super_6	3525200	3555817	2	2	3	Pairs: 3, Sphfalx0006s0261 (PPR repeat family ) Sphfalx0006s0262 (NB-ARC domain) Sphfalx0006s0263 (WD domain, G-beta repeat)	0.5547733334647432	Pairs: 0,	0
+C238	PF00403	super_60	1460193	1475923	2	0	1
+C239	PF00403	super_9	1765185	1780328	2	0	1
+C240	PF00403	super_8	3112773	3141516	2	0	1
+C241	PF00403	super_8	3030748	3045448	2	0	1
+C242	PF00403	super_7	4763150	4769403	2	0	1
+C243	PF00403	super_31	2061280	2096158	3	0	2	Pairs: 1, Sphfalx0031s0143 (Heavy-metal-associated domain) Sphfalx0031s0144 (Heavy-metal-associated domain)	0.7389434302255025	Pairs: 0,	0
+C244	PF00403	super_251	204267	217400	2	0	1
+C245	PF00403	super_218	238199	249103	2	1	2	Pairs: 1, Sphfalx0218s0017 (No Desc) Sphfalx0218s0018 (Heavy-metal-associated domain)	0.9427485639593339	Pairs: 0,	0
+C246	PF00403	super_119	392651	399332	2	0	1
+C247	PF00403	super_10	4199613	4219300	2	2	3	Pairs: 1, Sphfalx0010s0279 (gag-polypeptide of LTR copia-type) Sphfalx0010s0281 (Heavy-metal-associated domain)	0.28289775686427926	Pairs: 2, Sphfalx0010s0279 (gag-polypeptide of LTR copia-type) Sphfalx0010s0280 (Reverse transcriptase (RNA-dependent DNA polymerase)) Sphfalx0010s0281 (Heavy-metal-associated domain)	-0.20138239699125451
+C248	PF00403	super_10	3824160	3840156	2	0	1
+C249	PF00403	super_10	3679589	3703313	2	0	1
+C250	PF00403	super_10	3610097	3630405	2	0	1
+C251	PF00407	super_10	1027439	1090088	5	0	4	Pairs: 6, Sphfalx0010s0059 (Pathogenesis-related protein Bet v I family) Sphfalx0010s0060 (Pathogenesis-related protein Bet v I family) Sphfalx0010s0061 (Pathogenesis-related protein Bet v I family) Sphfalx0010s0062 (Pathogenesis-related protein Bet v I family)	0.5060876012502996	Pairs: 0,	0
+C252	PF00407	super_3	4388	17304	2	0	1
+C253	PF00407	super_3	747005	772468	3	0	2	Pairs: 1, Sphfalx0003s0065 (Pathogenesis-related protein Bet v I family) Sphfalx0003s0066 (Pathogenesis-related protein Bet v I family)	0.6114517314371298	Pairs: 0,	0
+C254	PF00407	super_327	20716	30553	2	0	1
+C255	PF00407	super_34	1187880	1193940	2	0	1
+C256	PF00407	super_671	4	8161	2	0	1
+C257	PF00450	super_7	289437	319628	2	0	1
+C258	PF00462	super_122	365554	382192	2	0	1
+C259	PF00464	super_3	2398497	2416087	2	1	2	Pairs: 1, Sphfalx0003s0190 (Dimerisation domain of Zinc Transporter) Sphfalx0003s0191 (Serine hydroxymethyltransferase)	0.23846337291746592	Pairs: 0,	0
+C260	PF00481	super_322	143231	160656	2	0	1
+C261	PF00481	super_67	1737	9428	3	0	2	Pairs: 1, Sphfalx0067s0002 (Protein phosphatase 2C) Sphfalx0067s0003 (Protein phosphatase 2C)	0.480437909377863	Pairs: 0,	0
+C262	PF00481	super_67	64502	80051	2	2	3	Pairs: 3, Sphfalx0067s0007 (Protein tyrosine kinase) Sphfalx0067s0008 (No Desc) Sphfalx0067s0009 (Protein phosphatase 2C)	0.4290391848936445	Pairs: 0,	0
+C263	PF00487	super_27	163882	182557	2	0	1
+C264	PF00501	super_78	207910	231694	2	0	1
+C265	PF00504	super_294	197564	207753	2	0	1
+C266	PF00504	super_38	1440101	1449374	2	0	1
+C267	PF00504	super_64	296556	301498	2	0	1
+C268	PF00504	super_83	774359	788799	2	0	1
+C269	PF00505	super_231	65074	75126	2	1	1
+C270	PF00505	super_55	1308433	1332680	2	0	1
+C271	PF00507	super_9	4557047	4561220	2	0	1
+C272	PF00514	super_26	2188550	2203422	2	0	1
+C273	PF00515	super_46	82439	101146	2	0	1
+C274	PF00538	super_167	488328	536215	4	0	3	Pairs: 3, Sphfalx0167s0037 (linker histone H1 and H5 family) Sphfalx0167s0038 (linker histone H1 and H5 family) Sphfalx0167s0039 (linker histone H1 and H5 family)	0.31928350922889653	Pairs: 0,	0
+C275	PF00538	super_192	370505	394405	3	0	2	Pairs: 1, Sphfalx0192s0027 (linker histone H1 and H5 family) Sphfalx0192s0028 (linker histone H1 and H5 family)	0.4992287185801509	Pairs: 0,	0
+C276	PF00544	super_5	3348131	3369476	2	0	1
+C277	PF00550	super_10	1220541	1227141	2	2	1
+C278	PF00560	super_11	2340319	2371552	2	0	1
+C279	PF00560	super_189	137108	149792	2	0	1
+C280	PF00560	super_283	15240	39031	2	0	1
+C281	PF00560	super_293	183651	206706	2	0	1
+C282	PF00565	super_115	945460	962139	2	0	1
+C283	PF00571	super_156	416929	451438	2	3	4	Pairs: 6, Sphfalx0156s0039 (Ribosomal protein L19) Sphfalx0156s0040 (TCP-1/cpn60 chaperonin family) Sphfalx0156s0041 (No Desc) Sphfalx0156s0042 (CBS domain)	0.5698584197197146	Pairs: 0,	0
+C284	PF00583	super_56	303032	313220	2	0	1
+C285	PF00641	super_28	1336153	1345364	2	2	2	Pairs: 1, Sphfalx0028s0096 (No Desc) Sphfalx0028s0097 (Zn-finger in Ran binding protein and others)	0.9192945504908057	Pairs: 0,	0
+C286	PF00651	super_1	641153	666730	2	4	5	Pairs: 6, Sphfalx0001s0044 (Fasciclin domain) Sphfalx0001s0045 (No Desc) Sphfalx0001s0046 (Cell division control protein 14, SIN component) Sphfalx0001s0047 (GHMP kinases C terminal ) Sphfalx0001s0048 (BTB/POZ domain)	0.5227946746350582	Pairs: 4, Sphfalx0001s0044 (Fasciclin domain) Sphfalx0001s0045 (No Desc) Sphfalx0001s0046 (Cell division control protein 14, SIN component) Sphfalx0001s0047 (GHMP kinases C terminal ) Sphfalx0001s0048 (BTB/POZ domain)	-0.10398644409790282
+C287	PF00657	super_221	384182	392488	2	0	1
+C288	PF00657	super_5	3453452	3477506	2	1	2	Pairs: 0,	0	Pairs: 1, Sphfalx0005s0240 (Eukaryotic aspartyl protease) Sphfalx0005s0241 (GDSL-like Lipase/Acylhydrolase)	-0.1787017501595463
+C289	PF00657	super_7	3080573	3089290	2	1	1
+C290	PF00657	super_83	195882	212930	2	1	2	Pairs: 0,	0	Pairs: 0,	0
+C291	PF00657	super_83	253869	267537	2	0	1
+C292	PF00665	super_73	1045489	1055416	2	0	1
+C293	PF00665	super_61	1797887	1809815	3	0	2	Pairs: 0,	0	Pairs: 0,	0
+C294	PF00665	super_567	3185	18812	2	1	2	Pairs: 0,	0	Pairs: 0,	0
+C295	PF00665	super_5	82169	94437	2	0	1
+C296	PF00665	super_463	40943	50233	2	0	1
+C297	PF00665	super_391	531	28510	2	1	2	Pairs: 0,	0	Pairs: 0,	0
+C298	PF00665	super_34	2472832	2493516	3	0	2	Pairs: 0,	0	Pairs: 0,	0
+C299	PF00665	super_302	211037	217845	2	0	1
+C300	PF00665	super_3	3627943	3665478	4	0	3	Pairs: 0,	0	Pairs: 1, Sphfalx0003s0268 (GAG-pre-integrase domain) Sphfalx0003s0269 (Domain of unknown function (DUF4219))	-0.06666666666666667
+C301	PF00665	super_282	77156	86386	2	1	2	Pairs: 0,	0	Pairs: 0,	0
+C302	PF00665	super_118	878116	898960	2	1	2	Pairs: 0,	0	Pairs: 0,	0
+C303	PF00665	super_21	734854	746341	2	0	1
+C304	PF00665	super_188	197305	209441	2	1	2	Pairs: 0,	0	Pairs: 0,	0
+C305	PF00665	super_160	357055	369309	2	0	1
+C306	PF00665	super_114	1005712	1011753	2	0	1
+C307	PF00665	super_114	822564	845661	3	0	2	Pairs: 1, Sphfalx0114s0051 (GAG-pre-integrase domain) Sphfalx0114s0052 (Zinc knuckle)	0.9751359701298788	Pairs: 0,	0
+C308	PF00665	super_107	121730	138752	2	1	2	Pairs: 0,	0	Pairs: 0,	0
+C309	PF00665	super_10	2499581	2509691	2	1	2	Pairs: 0,	0	Pairs: 1, Sphfalx0010s0165 (H2C2 zinc finger) Sphfalx0010s0166 (Integrase core domain)	-0.09759000729485333
+C310	PF00665	super_1	6710180	6719692	2	0	1
+C311	PF00665	super_1	5452786	5483933	3	2	4	Pairs: 5, Sphfalx0001s0351 (Integrase core domain) Sphfalx0001s0352 (Ankyrin repeats (many copies)) Sphfalx0001s0353 (Ankyrin repeats (3 copies)) Sphfalx0001s0354 (Zinc knuckle)	0.33701063141138093	Pairs: 1, Sphfalx0001s0351 (Integrase core domain) Sphfalx0001s0354 (Zinc knuckle)	-0.1933474489000188
+C312	PF00665	super_241	95809	144510	5	0	4	Pairs: 1, Sphfalx0241s0009 (Domain of unknown function (DUF4219)) Sphfalx0241s0011 (GAG-pre-integrase domain)	0.9592154182825077	Pairs: 0,	0
+C313	PF00684	super_97	1006791	1028546	2	0	1
+C314	PF00684	super_24	1077062	1111727	3	1	3	Pairs: 3, Sphfalx0024s0069 (Pre-SET motif) Sphfalx0024s0070 (DnaJ central domain) Sphfalx0024s0071 (DnaJ central domain)	0.6462516261102346	Pairs: 0,	0
+C315	PF00689	super_74	973999	1021040	2	0	1
+C316	PF00690	super_74	973999	1021040	2	0	1
+C317	PF00702	super_74	973999	1021040	2	0	1
+C318	PF00704	super_134	871621	878382	2	0	1
+C319	PF00704	super_97	1166240	1180758	2	0	1
+C320	PF00722	super_105	569153	581496	2	0	1
+C321	PF00722	super_158	644259	659537	2	0	1
+C322	PF00722	super_21	159905	185540	3	0	2	Pairs: 1, Sphfalx0021s0011 (Xyloglucan endo-transglycosylase (XET) C-terminus) Sphfalx0021s0012 (Xyloglucan endo-transglycosylase (XET) C-terminus)	0.49108792235301996	Pairs: 0,	0
+C323	PF00722	super_7	2907628	2918535	2	0	1
+C324	PF00722	super_92	414770	442940	2	0	1
+C325	PF00724	super_611	3	12942	2	0	1
+C326	PF00724	super_22	1741896	1761297	2	0	1
+C327	PF00732	super_64	557602	571089	2	0	1
+C328	PF00808	super_164	607761	636149	2	0	1
+C329	PF00847	super_20	206550	236736	2	4	4	Pairs: 2, Sphfalx0020s0017 (Protein CHLORORESPIRATORY REDUCTION 7 ) Sphfalx0020s0018 (No Desc) Sphfalx0020s0019 (CDP-alcohol phosphatidyltransferase)	0.4045719459944685	Pairs: 4, Sphfalx0020s0017 (Protein CHLORORESPIRATORY REDUCTION 7 ) Sphfalx0020s0018 (No Desc) Sphfalx0020s0019 (CDP-alcohol phosphatidyltransferase) Sphfalx0020s0020 (AP2 domain)	-0.1832835838619741
+C330	PF00847	super_23	2281469	2289129	2	0	1
+C331	PF00847	super_61	510144	516520	2	0	1
+C332	PF00847	super_79	1209563	1228987	2	0	1
+C333	PF00891	super_52	1327847	1334902	2	0	1
+C334	PF00891	super_93	223959	249927	2	0	1
+C335	PF00891	super_52	437298	450416	2	0	1
+C336	PF00891	super_52	1271603	1298471	2	2	3	Pairs: 3, Sphfalx0052s0083 (No Desc) Sphfalx0052s0084 (No Desc) Sphfalx0052s0085 (Dimerisation domain)	0.6684570717181094	Pairs: 0,	0
+C337	PF00909	super_88	681406	703780	2	0	1
+C338	PF00909	super_96	1130986	1148564	2	0	1
+C339	PF00931	super_32	2063807	2088871	2	0	1
+C340	PF00931	super_74	1366921	1388030	2	1	2	Pairs: 1, Sphfalx0074s0102 (TIR domain) Sphfalx0074s0103 (TIR domain)	0.7032572387959813	Pairs: 0,	0
+C341	PF00931	super_549	3013	17085	2	0	1
+C342	PF00931	super_5	8276	25892	2	0	1
+C343	PF00931	super_417	45031	76604	2	1	2	Pairs: 1, Sphfalx0417s0003 (Pentatricopeptide repeat domain) Sphfalx0417s0004 (NB-ARC domain)	0.8545945005854151	Pairs: 0,	0
+C344	PF00931	super_39	2060381	2096052	2	3	4	Pairs: 3, Sphfalx0039s0133 (ATPase family associated with various cellular activities (AAA)) Sphfalx0039s0134 (No Desc) Sphfalx0039s0135 (No Desc)	0.830504050731203	Pairs: 3, Sphfalx0039s0133 (ATPase family associated with various cellular activities (AAA)) Sphfalx0039s0134 (No Desc) Sphfalx0039s0135 (No Desc) Sphfalx0039s0136 (NB-ARC domain)	-0.38898272643395077
+C345	PF00931	super_351	17690	24679	3	1	3	Pairs: 3, Sphfalx0351s0003 (NB-ARC domain) Sphfalx0351s0004 (No Desc) Sphfalx0351s0005 (NB-ARC domain)	0.6659919365546844	Pairs: 0,	0
+C346	PF00931	super_293	183651	206706	2	0	1
+C347	PF00931	super_418	18735	76677	3	3	5	Pairs: 10, Sphfalx0418s0003 (No Desc) Sphfalx0418s0004 (No Desc) Sphfalx0418s0005 (NB-ARC domain) Sphfalx0418s0006 (CST, telomere maintenance, complex subunit CTC1) Sphfalx0418s0007 (NB-ARC domain)	0.7083341432005777	Pairs: 0,	0
+C348	PF00931	super_25	2601834	2631992	2	1	2	Pairs: 1, Sphfalx0025s0201 (PPR repeat family ) Sphfalx0025s0202 (NB-ARC domain)	0.7532408035109215	Pairs: 0,	0
+C349	PF00931	super_152	27332	44923	3	1	3	Pairs: 3, Sphfalx0152s0003 (No Desc) Sphfalx0152s0004 (NB-ARC domain) Sphfalx0152s0005 (Leucine rich repeat)	0.8520769529616414	Pairs: 0,	0
+C350	PF00931	super_168	497024	538711	3	0	2	Pairs: 1, Sphfalx0168s0033 (NB-ARC domain) Sphfalx0168s0034 (NB-ARC domain)	0.298259191085104	Pairs: 0,	0
+C351	PF00931	super_180	9965	20687	2	0	1
+C352	PF00931	super_11	3148120	3162716	2	0	1
+C353	PF00931	super_198	486913	510326	2	1	2	Pairs: 1, Sphfalx0198s0036 (No Desc) Sphfalx0198s0037 (Leucine rich repeat)	0.6095936806320428	Pairs: 0,	0
+C354	PF00931	super_23	469946	485661	2	0	1
+C355	PF00931	super_194	262627	280926	2	1	2	Pairs: 1, Sphfalx0194s0023 (CST, telomere maintenance, complex subunit CTC1) Sphfalx0194s0024 (NB-ARC domain)	0.3354791166179084	Pairs: 0,	0
+C356	PF00931	super_264	99589	140827	2	0	1
+C357	PF00933	super_48	157569	170440	2	0	1
+C358	PF00957	super_137	316150	324046	2	0	1
+C359	PF00984	super_172	246830	265482	2	0	1
+C360	PF01031	super_11	1677961	1710014	2	2	2	Pairs: 1, Sphfalx0011s0104 (No Desc) Sphfalx0011s0105 (Dynamin GTPase effector domain)	0.24422198458997746	Pairs: 0,	0
+C361	PF01031	super_242	285398	308857	2	0	1
+C362	PF01031	super_90	1261557	1284994	2	1	2	Pairs: 1, Sphfalx0090s0108 (PPR repeat) Sphfalx0090s0109 (Dynamin GTPase effector domain)	0.7271180251666837	Pairs: 0,	0
+C363	PF01061	super_41	583749	638504	3	0	2	Pairs: 1, Sphfalx0041s0027 (ABC-transporter N-terminal) Sphfalx0041s0028 (ABC-transporter N-terminal)	0.7161404309783383	Pairs: 0,	0
+C364	PF01061	super_40	401531	427795	2	0	1
+C365	PF01061	super_4	1162473	1189637	2	0	1
+C366	PF01061	super_4	800191	826668	2	0	1
+C367	PF01070	super_177	487227	499338	2	0	1
+C368	PF01112	super_119	809668	833199	2	0	1
+C369	PF01112	super_18	1467350	1472582	2	0	1
+C370	PF01168	super_152	221312	242973	2	2	3	Pairs: 3, Sphfalx0152s0024 (non-haem dioxygenase in morphine synthesis N-terminal) Sphfalx0152s0025 (No Desc) Sphfalx0152s0026 (Alanine racemase, N-terminal domain)	0.7266358276530949	Pairs: 0,	0
+C371	PF01184	super_87	81153	95238	2	0	1
+C372	PF01198	super_152	185111	199842	2	3	4	Pairs: 4, Sphfalx0152s0017 (Protein tyrosine kinase) Sphfalx0152s0018 (No Desc) Sphfalx0152s0019 (Protein kinase domain) Sphfalx0152s0020 (Ribosomal protein L31e)	0.5014502942584744	Pairs: 2, Sphfalx0152s0017 (Protein tyrosine kinase) Sphfalx0152s0018 (No Desc) Sphfalx0152s0019 (Protein kinase domain)	-0.19741726369041646
+C373	PF01208	super_1	6598542	6623446	2	1	1
+C374	PF01233	super_88	276360	280735	2	0	1
+C375	PF01255	super_4	5318640	5337423	2	0	1
+C376	PF01329	super_64	1641483	1645106	2	1	2	Pairs: 1, Sphfalx0064s0123 (No Desc) Sphfalx0064s0124 (Pterin 4 alpha carbinolamine dehydratase)	0.445110560152954	Pairs: 0,	0
+C377	PF01344	super_106	86288	100530	2	0	1
+C378	PF01344	super_14	3658031	3684603	2	0	1
+C379	PF01357	super_86	1292410	1326837	3	0	2	Pairs: 1, Sphfalx0086s0083 (Lytic transglycolase) Sphfalx0086s0084 (Lytic transglycolase)	0.4993800351785134	Pairs: 0,	0
+C380	PF01357	super_5	4164155	4194240	2	0	1
+C381	PF01357	super_288	103711	145165	3	1	3	Pairs: 2, Sphfalx0288s0006 (Seryl-tRNA synthetase N-terminal domain) Sphfalx0288s0007 (Lytic transglycolase) Sphfalx0288s0008 (Lytic transglycolase)	0.4015716138921855	Pairs: 1, Sphfalx0288s0006 (Seryl-tRNA synthetase N-terminal domain) Sphfalx0288s0007 (Lytic transglycolase)	-0.24932377314640286
+C382	PF01370	super_130	172720	201812	2	2	3	Pairs: 1, Sphfalx0130s0017 (Methyltransferase domain) Sphfalx0130s0018 (Probable N6-adenine methyltransferase)	0.8228173469560858	Pairs: 2, Sphfalx0130s0017 (Methyltransferase domain) Sphfalx0130s0018 (Probable N6-adenine methyltransferase) Sphfalx0130s0019 (NAD dependent epimerase/dehydratase family)	-0.7368746134174775
+C383	PF01370	super_38	376536	431184	5	1	5	Pairs: 6, Sphfalx0038s0021 (NAD dependent epimerase/dehydratase family) Sphfalx0038s0022 (NAD dependent epimerase/dehydratase family) Sphfalx0038s0024 (NAD dependent epimerase/dehydratase family) Sphfalx0038s0025 (NAD dependent epimerase/dehydratase family)	0.5778221604930385	Pairs: 0,	0
+C384	PF01370	super_64	638146	646269	2	0	1
+C385	PF01388	super_231	65074	75126	2	1	1
+C386	PF01388	super_55	1308433	1332680	2	0	1
+C387	PF01397	super_136	830109	868275	2	1	2	Pairs: 1, Sphfalx0136s0054 (Respiratory-chain NADH dehydrogenase, 49 Kd subunit) Sphfalx0136s0055 (Terpene synthase, N-terminal domain)	0.40255983212063706	Pairs: 0,	0
+C388	PF01419	super_105	1062069	1094786	2	2	3	Pairs: 1, Sphfalx0105s0066 (BAH domain) Sphfalx0105s0068 (Jacalin-like lectin domain)	0.6789958684556598	Pairs: 2, Sphfalx0105s0066 (BAH domain) Sphfalx0105s0067 (BAH domain) Sphfalx0105s0068 (Jacalin-like lectin domain)	-0.44644138139019435
+C389	PF01419	super_144	2215	27564	2	2	3	Pairs: 3, Sphfalx0144s0002 (BAH domain) Sphfalx0144s0003 (Jacalin-like lectin domain) Sphfalx0144s0004 (No Desc)	0.7001366154370882	Pairs: 0,	0
+C390	PF01419	super_376	62490	89255	2	1	2	Pairs: 1, Sphfalx0376s0006 (ATPase family associated with various cellular activities (AAA)) Sphfalx0376s0007 (Jacalin-like lectin domain)	0.20534130641706191	Pairs: 0,	0
+C391	PF01419	super_382	35817	49500	2	0	1
+C392	PF01419	super_450	4495	17587	2	0	1
+C393	PF01423	super_181	366850	418903	4	3	6	Pairs: 11, Sphfalx0181s0035 (Protein kinase domain) Sphfalx0181s0036 (LSM domain ) Sphfalx0181s0037 (Protein kinase domain) Sphfalx0181s0038 (LSM domain ) Sphfalx0181s0039 (Protein kinase domain) Sphfalx0181s0040 (LSM domain )	0.4439721906259484	Pairs: 4, Sphfalx0181s0035 (Protein kinase domain) Sphfalx0181s0036 (LSM domain ) Sphfalx0181s0039 (Protein kinase domain) Sphfalx0181s0040 (LSM domain )	-0.2622829973287214
+C394	PF01423	super_20	1546812	1552424	2	0	1
+C395	PF01426	super_144	54603	74956	2	1	2	Pairs: 0,	0	Pairs: 1, Sphfalx0144s0006 (Jacalin-like lectin domain) Sphfalx0144s0007 (BAH domain)	-0.8454442224836664
+C396	PF01426	super_105	1049963	1086967	3	1	3	Pairs: 1, Sphfalx0105s0065 (Jacalin-like lectin domain) Sphfalx0105s0066 (BAH domain)	0.7912417193889356	Pairs: 2, Sphfalx0105s0065 (Jacalin-like lectin domain) Sphfalx0105s0066 (BAH domain) Sphfalx0105s0067 (BAH domain)	-0.4024195145560715
+C397	PF01453	super_223	8757	12934	2	0	1
+C398	PF01453	super_223	122869	128626	2	0	1
+C399	PF01453	super_483	8370	12807	2	0	1
+C400	PF01466	super_96	141183	157425	2	0	1
+C401	PF01490	super_362	81118	118530	4	0	3	Pairs: 3, Sphfalx0362s0006 (Transmembrane amino acid transporter protein) Sphfalx0362s0007 (Transmembrane amino acid transporter protein) Sphfalx0362s0008 (Transmembrane amino acid transporter protein)	0.9633869529525555	Pairs: 0,	0
+C402	PF01490	super_395	21518	49254	2	0	1
+C403	PF01494	super_24	1429901	1477160	4	0	3	Pairs: 3, Sphfalx0024s0089 (FAD binding domain) Sphfalx0024s0090 (FAD binding domain) Sphfalx0024s0091 (FAD binding domain)	0.9610947166278613	Pairs: 0,	0
+C404	PF01494	super_31	920362	934390	2	0	1
+C405	PF01529	super_18	3025036	3046287	2	0	1
+C406	PF01535	super_411	37804	62163	2	0	1
+C407	PF01535	super_59	106719	119171	2	2	3	Pairs: 3, Sphfalx0059s0008 (No Desc) Sphfalx0059s0009 (Acylphosphatase) Sphfalx0059s0010 (PPR repeat)	0.5863231349190654	Pairs: 0,	0
+C408	PF01535	super_55	1632132	1635349	2	0	1
+C409	PF01535	super_55	547232	565666	2	2	3	Pairs: 3, Sphfalx0055s0029 (No Desc) Sphfalx0055s0030 (No Desc) Sphfalx0055s0031 (PPR repeat)	0.3086150014851776	Pairs: 0,	0
+C410	PF01535	super_411	13	5303	2	0	1
+C411	PF01535	super_0	8217895	8248876	2	1	2	Pairs: 1, Sphfalx0000s0545 (WW domain) Sphfalx0000s0546 (DYW family of nucleic acid deaminases)	0.5190582194297895	Pairs: 0,	0
+C412	PF01535	super_242	271379	281493	2	0	1
+C413	PF01535	super_15	276634	286562	2	1	1
+C414	PF01535	super_26	2306136	2307910	2	0	1
+C415	PF01535	super_0	4724093	4742146	2	1	2	Pairs: 1, Sphfalx0000s0313 (RNase P subunit p30) Sphfalx0000s0314 (PPR repeat)	0.747930270676908	Pairs: 0,	0
+C416	PF01536	super_111	261874	287806	2	2	2	Pairs: 1, Sphfalx0111s0015 (S-adenosyl-l-methionine decarboxylase leader peptide) Sphfalx0111s0016 (Adenosylmethionine decarboxylase)	0.5376476727919727	Pairs: 0,	0
+C417	PF01541	super_0	9257280	9284635	2	1	1
+C418	PF01545	super_279	71261	80649	2	0	1
+C419	PF01554	super_24	1992307	2017874	2	0	1
+C420	PF01556	super_24	1077062	1111727	3	1	3	Pairs: 3, Sphfalx0024s0069 (Pre-SET motif) Sphfalx0024s0070 (DnaJ central domain) Sphfalx0024s0071 (DnaJ central domain)	0.6462516261102346	Pairs: 0,	0
+C421	PF01556	super_97	1006791	1028546	2	0	1
+C422	PF01565	super_63	381472	390713	2	0	1
+C423	PF01578	super_234	16316	19192	2	0	1
+C424	PF01582	super_265	31814	56348	2	1	2	Pairs: 0,	0	Pairs: 1, Sphfalx0265s0007 (No Desc) Sphfalx0265s0008 (NB-ARC domain)	-0.5842494271950401
+C425	PF01582	super_265	94362	126287	2	1	2	Pairs: 0,	0	Pairs: 1, Sphfalx0265s0014 (B3 DNA binding domain) Sphfalx0265s0015 (NACHT domain)	-0.030135063308337803
+C426	PF01582	super_74	1368230	1388030	2	0	1
+C427	PF01593	super_170	272890	299601	2	0	1
+C428	PF01643	super_65	1639602	1662276	2	0	1
+C429	PF01676	super_137	311090	335995	2	2	3	Pairs: 2, Sphfalx0137s0022 (Regulated-SNARE-like domain) Sphfalx0137s0023 (Regulated-SNARE-like domain) Sphfalx0137s0024 (BPG-independent PGAM N-terminus (iPGM_N))	0.44097041769783746	Pairs: 1, Sphfalx0137s0022 (Regulated-SNARE-like domain) Sphfalx0137s0023 (Regulated-SNARE-like domain)	-0.024031285780871922
+C430	PF01680	super_305	72149	74800	2	0	1
+C431	PF01698	super_70	1241953	1247492	2	0	1
+C432	PF01704	super_30	1237258	1247200	2	1	1
+C433	PF01734	super_110	393609	420139	2	0	1
+C434	PF01734	super_110	484038	504506	2	0	1
+C435	PF01738	super_141	60011	100470	4	0	3	Pairs: 3, Sphfalx0141s0007 (Dienelactone hydrolase family) Sphfalx0141s0008 (Dienelactone hydrolase family) Sphfalx0141s0009 (Dienelactone hydrolase family)	0.4841723999188472	Pairs: 0,	0
+C436	PF01780	super_16	2241357	2245563	2	0	1
+C437	PF01915	super_48	157569	170440	2	0	1
+C438	PF01926	super_39	731499	743546	2	0	1
+C439	PF02115	super_131	7532	16346	2	0	1
+C440	PF02115	super_29	1944118	1959853	2	0	1
+C441	PF02136	super_21	2712639	2722339	2	0	1
+C442	PF02212	super_11	1677961	1710014	2	2	2	Pairs: 1, Sphfalx0011s0104 (No Desc) Sphfalx0011s0105 (Dynamin GTPase effector domain)	0.24422198458997746	Pairs: 0,	0
+C443	PF02212	super_242	285398	308857	2	0	1
+C444	PF02212	super_90	1261557	1284994	2	1	2	Pairs: 1, Sphfalx0090s0108 (PPR repeat) Sphfalx0090s0109 (Dynamin GTPase effector domain)	0.7271180251666837	Pairs: 0,	0
+C445	PF02458	super_3	2182487	2194623	2	0	1
+C446	PF02469	super_36	118389	134373	2	0	1
+C447	PF02469	super_65	631878	645246	2	0	1
+C448	PF02485	super_173	228412	236940	2	0	1
+C449	PF02496	super_119	185727	229367	4	0	3	Pairs: 3, Sphfalx0119s0017 (ABA/WDS induced protein) Sphfalx0119s0018 (ABA/WDS induced protein) Sphfalx0119s0019 (ABA/WDS induced protein)	0.925731450276177	Pairs: 0,	0
+C450	PF02496	super_119	363721	423661	5	4	8	Pairs: 28, Sphfalx0119s0031 (ABA/WDS induced protein) Sphfalx0119s0032 (No Desc) Sphfalx0119s0033 (No Desc) Sphfalx0119s0034 (Heavy-metal-associated domain) Sphfalx0119s0035 (Heavy-metal-associated domain) Sphfalx0119s0036 (ABA/WDS induced protein) Sphfalx0119s0037 (ABA/WDS induced protein) Sphfalx0119s0038 (ABA/WDS induced protein)	0.5905966017881064	Pairs: 0,	0
+C451	PF02496	super_15	646404	731136	6	6	11	Pairs: 36, Sphfalx0015s0048 (No Desc) Sphfalx0015s0049 (No Desc) Sphfalx0015s0050 (ABA/WDS induced protein) Sphfalx0015s0051 (No Desc) Sphfalx0015s0052 (ABA/WDS induced protein) Sphfalx0015s0053 (ABA/WDS induced protein) Sphfalx0015s0054 (No Desc) Sphfalx0015s0055 (No Desc) Sphfalx0015s0056 (No Desc) Sphfalx0015s0057 (ABA/WDS induced protein) Sphfalx0015s0058 (ABA/WDS induced protein)	0.5761190137145964	Pairs: 19, Sphfalx0015s0048 (No Desc) Sphfalx0015s0049 (No Desc) Sphfalx0015s0051 (No Desc) Sphfalx0015s0052 (ABA/WDS induced protein) Sphfalx0015s0053 (ABA/WDS induced protein) Sphfalx0015s0054 (No Desc) Sphfalx0015s0055 (No Desc) Sphfalx0015s0056 (No Desc) Sphfalx0015s0057 (ABA/WDS induced protein) Sphfalx0015s0058 (ABA/WDS induced protein)	-0.3609129046009794
+C452	PF02496	super_21	31380	48087	2	0	1
+C453	PF02496	super_227	8338	25769	2	0	1
+C454	PF02496	super_89	655484	670432	2	0	1
+C455	PF02507	super_6	555356	575334	2	1	2	Pairs: 1, Sphfalx0006s0033 (Core histone H2A/H2B/H3/H4) Sphfalx0006s0034 (Photosystem I reaction centre subunit III)	0.9626249260990368	Pairs: 0,	0
+C456	PF02519	super_0	6441072	6446864	2	0	1
+C457	PF02519	super_12	1942681	1947613	2	0	1
+C458	PF02519	super_243	9274	13359	2	0	1
+C459	PF02668	super_226	164101	180612	2	0	1
+C460	PF02701	super_29	1483538	1511107	2	0	1
+C461	PF02701	super_54	314520	336301	2	0	1
+C462	PF02701	super_240	180957	199598	2	0	1
+C463	PF02798	super_163	89719	100405	2	1	2	Pairs: 0,	0	Pairs: 1, Sphfalx0163s0008 (Ribosomal L25p family) Sphfalx0163s0009 (Glutathione S-transferase, C-terminal domain)	-0.015782311877630472
+C464	PF02798	super_5	3219610	3242459	2	0	1
+C465	PF02798	super_5	3306142	3327626	3	0	2	Pairs: 1, Sphfalx0005s0230 (Glutathione S-transferase, N-terminal domain) Sphfalx0005s0231 (Glutathione S-transferase, C-terminal domain)	0.9244151456901049	Pairs: 0,	0
+C466	PF02798	super_51	264816	283373	2	0	1
+C467	PF02798	super_513	12799	24786	2	0	1
+C468	PF02798	super_56	1300820	1317794	2	0	1
+C469	PF02798	super_76	803869	810145	2	0	1
+C470	PF02799	super_88	276360	280735	2	0	1
+C471	PF02874	super_92	739102	749498	2	0	1
+C472	PF02984	super_156	629591	641178	2	2	3	Pairs: 3, Sphfalx0156s0053 (No Desc) Sphfalx0156s0054 (No Desc) Sphfalx0156s0055 (Cyclin, C-terminal domain)	0.5203478847569993	Pairs: 0,	0
+C473	PF02992	super_139	3597	7056	2	0	1
+C474	PF02992	super_30	289436	292379	2	0	1
+C475	PF02992	super_14	2991453	3011875	2	3	4	Pairs: 6, Sphfalx0014s0193 (Transposase-associated domain) Sphfalx0014s0194 (No Desc) Sphfalx0014s0195 (No Desc) Sphfalx0014s0196 (Domain of unknown function (DUF4216))	0.6870657697427348	Pairs: 0,	0
+C476	PF02992	super_103	751339	782214	2	4	5	Pairs: 10, Sphfalx0103s0053 (No Desc) Sphfalx0103s0054 (No Desc) Sphfalx0103s0055 (No Desc) Sphfalx0103s0056 (No Desc) Sphfalx0103s0057 (Domain of unknown function (DUF4218))	0.5907797529022558	Pairs: 0,	0
+C477	PF02992	super_0	7635976	7664884	2	3	3	Pairs: 3, Sphfalx0000s0503 (Leucine rich repeat) Sphfalx0000s0504 (No Desc) Sphfalx0000s0505 (Domain of unknown function (DUF4218))	0.22942127413587568	Pairs: 0,	0
+C478	PF03016	super_44	2135991	2163530	2	1	2	Pairs: 1, Sphfalx0044s0152 (Protein tyrosine kinase) Sphfalx0044s0153 (Exostosin family)	0.6379944869741724	Pairs: 0,	0
+C479	PF03018	super_314	33845	132083	9	0	8	Pairs: 28, Sphfalx0314s0005 (Dirigent-like protein) Sphfalx0314s0006 (Dirigent-like protein) Sphfalx0314s0007 (Dirigent-like protein) Sphfalx0314s0008 (Dirigent-like protein) Sphfalx0314s0009 (Dirigent-like protein) Sphfalx0314s0010 (Dirigent-like protein) Sphfalx0314s0011 (Dirigent-like protein) Sphfalx0314s0012 (Dirigent-like protein)	0.8614187431855891	Pairs: 0,	0
+C480	PF03055	super_16	3223631	3243538	3	1	3	Pairs: 3, Sphfalx0016s0251 (Retinal pigment epithelial membrane protein) Sphfalx0016s0252 (No Desc) Sphfalx0016s0253 (Retinal pigment epithelial membrane protein)	0.4460661989856595	Pairs: 0,	0
+C481	PF03080	super_39	13	13005	2	0	1
+C482	PF03083	super_5	1125091	1127827	2	0	1
+C483	PF03105	super_305	153727	190488	2	0	1
+C484	PF03110	super_1	2006361	2022359	2	0	1
+C485	PF03110	super_46	1907367	1942386	2	0	1
+C486	PF03110	super_70	378294	408306	2	1	2	Pairs: 1, Sphfalx0070s0029 (Ankyrin repeats (many copies)) Sphfalx0070s0030 (SBP domain)	0.2873454627139925	Pairs: 0,	0
+C487	PF03124	super_305	153727	190488	2	0	1
+C488	PF03140	super_51	678176	695220	2	1	2	Pairs: 1, Sphfalx0051s0054 (No Desc) Sphfalx0051s0055 (Plant protein of unknown function)	0.42293919121044254	Pairs: 0,	0
+C489	PF03140	super_47	699613	713569	2	0	1
+C490	PF03140	super_111	926627	997929	5	1	5	Pairs: 6, Sphfalx0111s0055 (Plant protein of unknown function) Sphfalx0111s0056 (Plant protein of unknown function) Sphfalx0111s0057 (Plant protein of unknown function) Sphfalx0111s0058 (No Desc)	0.3670716705370951	Pairs: 4, Sphfalx0111s0055 (Plant protein of unknown function) Sphfalx0111s0056 (Plant protein of unknown function) Sphfalx0111s0057 (Plant protein of unknown function) Sphfalx0111s0058 (No Desc) Sphfalx0111s0059 (Plant protein of unknown function)	-0.39203293489354246
+C491	PF03168	super_58	170426	177619	2	0	1
+C492	PF03168	super_94	288601	309212	2	0	1
+C493	PF03169	super_9	3133310	3137698	2	0	1
+C494	PF03171	super_127	557399	575305	2	0	1
+C495	PF03171	super_152	224838	245758	2	2	3	Pairs: 3, Sphfalx0152s0025 (No Desc) Sphfalx0152s0026 (Alanine racemase, N-terminal domain) Sphfalx0152s0027 (non-haem dioxygenase in morphine synthesis N-terminal)	0.5975436074918534	Pairs: 0,	0
+C496	PF03171	super_25	751392	772573	2	1	2	Pairs: 1, Sphfalx0025s0060 (NUDIX domain) Sphfalx0025s0061 (2OG-Fe(II) oxygenase superfamily)	0.8412905572115399	Pairs: 0,	0
+C497	PF03171	super_37	794762	828978	3	1	3	Pairs: 1, Sphfalx0037s0046 (non-haem dioxygenase in morphine synthesis N-terminal) Sphfalx0037s0048 (non-haem dioxygenase in morphine synthesis N-terminal)	0.5139609567213026	Pairs: 0,	0
+C498	PF03171	super_4	4249661	4264441	2	1	2	Pairs: 1, Sphfalx0004s0289 (Type III restriction enzyme, res subunit) Sphfalx0004s0290 (2OG-Fe(II) oxygenase superfamily)	0.41627214199611423	Pairs: 0,	0
+C499	PF03188	super_166	281409	303261	2	0	1
+C500	PF03254	super_0	10452253	10461918	2	0	1
+C501	PF03254	super_132	578192	587309	2	0	1
+C502	PF03297	super_228	239254	270501	3	0	2	Pairs: 1, Sphfalx0228s0021 (S25 ribosomal protein) Sphfalx0228s0022 (S25 ribosomal protein)	0.5230924726724918	Pairs: 0,	0
+C503	PF03330	super_169	181482	193382	3	0	2	Pairs: 0,	0	Pairs: 1, Sphfalx0169s0009 (Lytic transglycolase) Sphfalx0169s0010 (Lytic transglycolase)	-0.36685648318847386
+C504	PF03330	super_20	2889742	2917421	2	2	3	Pairs: 1, Sphfalx0020s0221 (Protein tyrosine kinase) Sphfalx0020s0222 (Protein tyrosine kinase)	0.8607011585558382	Pairs: 2, Sphfalx0020s0221 (Protein tyrosine kinase) Sphfalx0020s0222 (Protein tyrosine kinase) Sphfalx0020s0223 (Chitin recognition protein)	-0.12747777256723794
+C505	PF03330	super_288	103711	145165	3	1	3	Pairs: 2, Sphfalx0288s0006 (Seryl-tRNA synthetase N-terminal domain) Sphfalx0288s0007 (Lytic transglycolase) Sphfalx0288s0008 (Lytic transglycolase)	0.4015716138921855	Pairs: 1, Sphfalx0288s0006 (Seryl-tRNA synthetase N-terminal domain) Sphfalx0288s0007 (Lytic transglycolase)	-0.24932377314640286
+C506	PF03330	super_5	4164155	4194240	2	0	1
+C507	PF03330	super_86	1292410	1326837	3	0	2	Pairs: 1, Sphfalx0086s0083 (Lytic transglycolase) Sphfalx0086s0084 (Lytic transglycolase)	0.4993800351785134	Pairs: 0,	0
+C508	PF03358	super_65	815091	832685	2	0	1
+C509	PF03407	super_132	493773	508760	2	1	2	Pairs: 1, Sphfalx0132s0028 (No Desc) Sphfalx0132s0029 (Nucleotide-diphospho-sugar transferase)	0.11308475599869039	Pairs: 0,	0
+C510	PF03407	super_45	67256	79224	2	0	1
+C511	PF03473	super_268	244640	273187	2	0	1
+C512	PF03476	super_268	244640	273187	2	0	1
+C513	PF03492	super_23	1843788	1863124	2	0	1
+C514	PF03492	super_78	572306	610218	3	0	2	Pairs: 1, Sphfalx0078s0040 (SAM dependent carboxyl methyltransferase) Sphfalx0078s0041 (SAM dependent carboxyl methyltransferase)	0.5933041191441767	Pairs: 0,	0
+C515	PF03600	super_82	1173289	1180781	2	0	1
+C516	PF03652	super_65	221146	236873	2	1	2	Pairs: 0,	0	Pairs: 1, Sphfalx0065s0022 (Protein kinase domain) Sphfalx0065s0023 (Holliday junction resolvase)	-0.22378846969515145
+C517	PF03720	super_172	246830	265482	2	0	1
+C518	PF03721	super_172	246830	265482	2	0	1
+C519	PF03732	super_1	6710180	6719692	2	0	1
+C520	PF03732	super_158	399022	412773	2	0	1
+C521	PF03807	super_16	2405560	2433258	3	1	3	Pairs: 3, Sphfalx0016s0192 (Cytochrome P450) Sphfalx0016s0193 (NADP oxidoreductase coenzyme F420-dependent) Sphfalx0016s0194 (NADP oxidoreductase coenzyme F420-dependent)	0.3395084896550109	Pairs: 0,	0
+C522	PF03931	super_96	141183	157425	2	0	1
+C523	PF03936	super_136	830109	868275	2	1	2	Pairs: 1, Sphfalx0136s0054 (Respiratory-chain NADH dehydrogenase, 49 Kd subunit) Sphfalx0136s0055 (Terpene synthase, N-terminal domain)	0.40255983212063706	Pairs: 0,	0
+C524	PF03936	super_197	163712	187271	2	1	2	Pairs: 0,	0	Pairs: 0,	0
+C525	PF03951	super_16	410972	429027	2	0	1
+C526	PF03951	super_239	265269	283068	2	0	1
+C527	PF03953	super_0	1641091	1664174	3	0	2	Pairs: 1, Sphfalx0000s0120 (Tubulin C-terminal domain) Sphfalx0000s0121 (Tubulin C-terminal domain)	0.06679439620028434	Pairs: 0,	0
+C528	PF03953	super_161	152943	165878	2	0	1
+C529	PF03953	super_35	1459105	1487079	3	0	2	Pairs: 1, Sphfalx0035s0095 (Tubulin C-terminal domain) Sphfalx0035s0096 (Tubulin C-terminal domain)	0.7901975887141648	Pairs: 0,	0
+C530	PF03999	super_0	480922	500487	2	1	2	Pairs: 1, Sphfalx0000s0048 (Protein of unknown function, DUF538) Sphfalx0000s0049 (Microtubule associated protein (MAP65/ASE1 family))	0.8556161761610533	Pairs: 0,	0
+C531	PF04057	super_39	2167254	2175705	2	1	1
+C532	PF04109	super_11	3674010	3695170	2	0	1
+C533	PF04525	super_15	2284410	2287463	2	0	1
+C534	PF04525	super_17	2136006	2157300	3	0	2	Pairs: 1, Sphfalx0017s0132 (LURP-one-related) Sphfalx0017s0133 (LURP-one-related)	0.6219927958706911	Pairs: 0,	0
+C535	PF04535	super_2	2337003	2358731	2	0	1
+C536	PF04576	super_145	439698	465426	2	0	1
+C537	PF04576	super_99	1015215	1031762	2	0	1
+C538	PF04577	super_72	1436831	1461803	2	1	2	Pairs: 1, Sphfalx0072s0103 (Ribosomal proteins 50S-L15, 50S-L18e, 60S-L27A) Sphfalx0072s0104 (Protein of unknown function (DUF563))	0.7763557508898717	Pairs: 0,	0
+C539	PF04577	super_95	72291	80959	2	0	1
+C540	PF04833	super_52	1767223	1786839	2	0	1
+C541	PF04885	super_140	452057	487216	9	2	10	Pairs: 40, Sphfalx0140s0031 (No Desc) Sphfalx0140s0032 (Stigma-specific protein, Stig1) Sphfalx0140s0033 (Stigma-specific protein, Stig1) Sphfalx0140s0034 (No Desc) Sphfalx0140s0035 (Stigma-specific protein, Stig1) Sphfalx0140s0036 (Stigma-specific protein, Stig1) Sphfalx0140s0037 (Stigma-specific protein, Stig1) Sphfalx0140s0038 (Stigma-specific protein, Stig1) Sphfalx0140s0039 (Stigma-specific protein, Stig1) Sphfalx0140s0040 (Stigma-specific protein, Stig1)	0.501773207025731	Pairs: 5, Sphfalx0140s0031 (No Desc) Sphfalx0140s0033 (Stigma-specific protein, Stig1) Sphfalx0140s0034 (No Desc) Sphfalx0140s0035 (Stigma-specific protein, Stig1) Sphfalx0140s0036 (Stigma-specific protein, Stig1) Sphfalx0140s0038 (Stigma-specific protein, Stig1)	-0.18727817263255503
+C542	PF05018	super_16	1817734	1825714	2	0	1
+C543	PF05050	super_119	541137	556501	2	0	1
+C544	PF05056	super_454	5542	11887	2	0	1
+C545	PF05057	super_325	9510	20651	2	0	1
+C546	PF05057	super_35	1567123	1594341	2	2	3	Pairs: 1, Sphfalx0035s0100 (CST, telomere maintenance, complex subunit CTC1) Sphfalx0035s0101 (Putative serine esterase (DUF676))	0.7771947243617636	Pairs: 2, Sphfalx0035s0099 (Ribosomal protein S9/S16) Sphfalx0035s0100 (CST, telomere maintenance, complex subunit CTC1) Sphfalx0035s0101 (Putative serine esterase (DUF676))	-0.35499426737169176
+C547	PF05057	super_60	1294305	1310573	2	0	1
+C548	PF05078	super_21	2116486	2145564	3	0	2	Pairs: 1, Sphfalx0021s0133 (Protein of unknown function (DUF679)) Sphfalx0021s0134 (Protein of unknown function (DUF679))	0.7814557821179945	Pairs: 0,	0
+C549	PF05078	super_3	4241496	4255868	2	0	1
+C550	PF05199	super_64	557602	571089	2	0	1
+C551	PF05217	super_341	120053	134766	2	3	4	Pairs: 1, Sphfalx0341s0013 (No Desc) Sphfalx0341s0015 (No Desc)	0.5387403347960718	Pairs: 2, Sphfalx0341s0013 (No Desc) Sphfalx0341s0014 (HIT domain) Sphfalx0341s0015 (No Desc)	-0.2835822377593637
+C552	PF05368	super_0	8823731	8837499	2	0	1
+C553	PF05368	super_85	514436	526796	2	0	1
+C554	PF05637	super_53	1628544	1655081	2	0	1
+C555	PF05641	super_105	1049963	1086967	3	1	3	Pairs: 1, Sphfalx0105s0065 (Jacalin-like lectin domain) Sphfalx0105s0066 (BAH domain)	0.7912417193889356	Pairs: 2, Sphfalx0105s0065 (Jacalin-like lectin domain) Sphfalx0105s0066 (BAH domain) Sphfalx0105s0067 (BAH domain)	-0.4024195145560715
+C556	PF05729	super_0	11057937	11083956	2	0	1
+C557	PF05729	super_265	94362	126287	2	1	2	Pairs: 0,	0	Pairs: 1, Sphfalx0265s0014 (B3 DNA binding domain) Sphfalx0265s0015 (NACHT domain)	-0.030135063308337803
+C558	PF05922	super_4	5421264	5435821	2	0	1
+C559	PF05938	super_76	478154	483823	2	0	1
+C560	PF05938	super_167	434725	455576	2	0	1
+C561	PF05938	super_164	304435	315834	3	0	2	Pairs: 0,	0	Pairs: 0,	0
+C562	PF05938	super_109	354656	380320	2	1	2	Pairs: 1, Sphfalx0109s0027 (Cupin) Sphfalx0109s0028 (Plant self-incompatibility protein S1)	0.31396174863113685	Pairs: 0,	0
+C563	PF05970	super_11	577665	579761	2	0	1
+C564	PF05970	super_131	752423	754825	2	0	1
+C565	PF05970	super_161	528005	531855	2	0	1
+C566	PF05970	super_174	479878	483064	2	0	1
+C567	PF05970	super_182	522051	528326	2	0	1
+C568	PF05970	super_29	1903295	1908396	2	0	1
+C569	PF05970	super_32	130716	161322	2	2	3	Pairs: 1, Sphfalx0032s0007 (P21-Rho-binding domain) Sphfalx0032s0008 (ELMO/CED-12 family)	0.19426620834369715	Pairs: 0,	0
+C570	PF05970	super_35	204911	209274	2	0	1
+C571	PF05970	super_95	460574	462721	2	0	1
+C572	PF06351	super_293	135921	164701	3	0	2	Pairs: 1, Sphfalx0293s0015 (Allene oxide cyclase) Sphfalx0293s0016 (Allene oxide cyclase)	0.2368594021526185	Pairs: 0,	0
+C573	PF06415	super_137	311090	335995	2	2	3	Pairs: 2, Sphfalx0137s0022 (Regulated-SNARE-like domain) Sphfalx0137s0023 (Regulated-SNARE-like domain) Sphfalx0137s0024 (BPG-independent PGAM N-terminus (iPGM_N))	0.44097041769783746	Pairs: 1, Sphfalx0137s0022 (Regulated-SNARE-like domain) Sphfalx0137s0023 (Regulated-SNARE-like domain)	-0.024031285780871922
+C574	PF06749	super_180	312196	328609	2	1	2	Pairs: 0,	0	Pairs: 1, Sphfalx0180s0021 (Thioredoxin) Sphfalx0180s0022 (Protein of unknown function (DUF1218))	-0.23514048677552787
+C575	PF06760	super_57	1641560	1663672	2	0	1
+C576	PF06813	super_104	600351	625689	2	1	2	Pairs: 0,	0	Pairs: 1, Sphfalx0104s0043 (LysM domain) Sphfalx0104s0044 (Nodulin-like)	-0.4588831716825693
+C577	PF06955	super_105	569153	581496	2	0	1
+C578	PF06955	super_158	644259	659537	2	0	1
+C579	PF06955	super_21	159905	185540	3	0	2	Pairs: 1, Sphfalx0021s0011 (Xyloglucan endo-transglycosylase (XET) C-terminus) Sphfalx0021s0012 (Xyloglucan endo-transglycosylase (XET) C-terminus)	0.49108792235301996	Pairs: 0,	0
+C580	PF06955	super_92	414770	442940	2	0	1
+C581	PF07004	super_236	245193	249969	2	0	1
+C582	PF07058	super_94	977049	996147	2	0	1
+C583	PF07250	super_135	535840	553547	2	0	1
+C584	PF07367	super_134	133260	160866	2	0	1
+C585	PF07367	super_151	725750	734668	2	0	1
+C586	PF07367	super_271	60387	68554	2	0	1
+C587	PF07690	super_4	3810000	3824326	2	0	1
+C588	PF07690	super_0	9455439	9486808	2	0	1
+C589	PF07690	super_28	2290892	2306510	2	1	2	Pairs: 1, Sphfalx0028s0167 (No Desc) Sphfalx0028s0168 (Major Facilitator Superfamily)	0.7935537931864765	Pairs: 0,	0
+C590	PF07707	super_1	641153	666730	2	4	5	Pairs: 6, Sphfalx0001s0044 (Fasciclin domain) Sphfalx0001s0045 (No Desc) Sphfalx0001s0046 (Cell division control protein 14, SIN component) Sphfalx0001s0047 (GHMP kinases C terminal ) Sphfalx0001s0048 (BTB/POZ domain)	0.5227946746350582	Pairs: 4, Sphfalx0001s0044 (Fasciclin domain) Sphfalx0001s0045 (No Desc) Sphfalx0001s0046 (Cell division control protein 14, SIN component) Sphfalx0001s0047 (GHMP kinases C terminal ) Sphfalx0001s0048 (BTB/POZ domain)	-0.10398644409790282
+C591	PF07714	super_34	941432	970281	2	1	2	Pairs: 0,	0	Pairs: 1, Sphfalx0034s0078 (Protein of unknown function (DUF677)) Sphfalx0034s0079 (EF-hand domain pair)	-0.2928947730496385
+C592	PF07714	super_266	112262	131177	2	1	2	Pairs: 1, Sphfalx0266s0010 (AUX/IAA family) Sphfalx0266s0011 (Kinase-like)	0.5028664460071502	Pairs: 0,	0
+C593	PF07714	super_300	162861	170751	2	0	1
+C594	PF07714	super_31	1901804	1910862	2	0	1
+C595	PF07714	super_322	143231	160656	2	0	1
+C596	PF07714	super_34	374730	430048	3	2	4	Pairs: 3, Sphfalx0034s0034 (Protein tyrosine kinase) Sphfalx0034s0035 (No Desc) Sphfalx0034s0036 (Protein tyrosine kinase)	0.4034847385467241	Pairs: 0,	0
+C597	PF07714	super_4	143538	178009	2	1	2	Pairs: 0,	0	Pairs: 1, Sphfalx0004s0010 (Lysine methyltransferase) Sphfalx0004s0011 (Protein tyrosine kinase)	-0.03228162564947822
+C598	PF07714	super_67	65507	80051	2	1	2	Pairs: 1, Sphfalx0067s0008 (No Desc) Sphfalx0067s0009 (Protein phosphatase 2C)	0.515436868941454	Pairs: 0,	0
+C599	PF07714	super_43	1337271	1403063	3	0	2	Pairs: 1, Sphfalx0043s0100 (Protein tyrosine kinase) Sphfalx0043s0101 (Protein tyrosine kinase)	0.8578177048065392	Pairs: 0,	0
+C600	PF07714	super_44	2157312	2175959	2	1	2	Pairs: 0,	0	Pairs: 1, Sphfalx0044s0153 (Exostosin family) Sphfalx0044s0154 (Protein tyrosine kinase)	-0.16817229204365583
+C601	PF07714	super_481	1537	17187	2	0	1
+C602	PF07714	super_57	1641560	1663672	2	0	1
+C603	PF07714	super_63	1544823	1567330	2	2	3	Pairs: 3, Sphfalx0063s0088 (No Desc) Sphfalx0063s0089 (DEK C terminal domain) Sphfalx0063s0090 (PB1 domain)	0.6726168419445915	Pairs: 0,	0
+C604	PF07714	super_26	2188550	2213429	2	1	2	Pairs: 1, Sphfalx0026s0154 (Armadillo/beta-catenin-like repeat) Sphfalx0026s0155 (Protein tyrosine kinase)	0.9164397223534709	Pairs: 0,	0
+C605	PF07714	super_87	775566	820208	2	0	1
+C606	PF07714	super_40	1093727	1120336	2	2	3	Pairs: 3, Sphfalx0040s0093 (Protein of unknown function (DUF677)) Sphfalx0040s0094 (No Desc) Sphfalx0040s0095 (Protein tyrosine kinase)	0.5975549594917636	Pairs: 0,	0
+C607	PF07714	super_23	1715874	1729669	3	1	3	Pairs: 2, Sphfalx0023s0116 (Ribosomal protein L31e) Sphfalx0023s0117 (Protein tyrosine kinase) Sphfalx0023s0118 (Protein tyrosine kinase)	0.2702487699920182	Pairs: 1, Sphfalx0023s0116 (Ribosomal protein L31e) Sphfalx0023s0118 (Protein tyrosine kinase)	-0.1625168398812338
+C608	PF07714	super_14	3730606	3765874	2	1	2	Pairs: 1, Sphfalx0014s0261 (Dip2/Utp12 Family) Sphfalx0014s0262 (D-mannose binding lectin)	0.23587735397304074	Pairs: 0,	0
+C609	PF07714	super_224	71745	98059	2	0	1
+C610	PF07714	super_0	354667	383166	2	1	2	Pairs: 1, Sphfalx0000s0036 (DEK C terminal domain) Sphfalx0000s0037 (PB1 domain)	0.5348043272324238	Pairs: 0,	0
+C611	PF07714	super_10	61122	82141	2	0	1
+C612	PF07714	super_101	784419	809725	2	0	1
+C613	PF07714	super_101	863919	898072	2	1	2	Pairs: 1, Sphfalx0101s0057 (UDP-glucoronosyl and UDP-glucosyl transferase) Sphfalx0101s0058 (Protein tyrosine kinase)	0.865690123087071	Pairs: 0,	0
+C614	PF07714	super_101	1101773	1135074	3	2	4	Pairs: 5, Sphfalx0101s0074 (No Desc) Sphfalx0101s0075 (Protein tyrosine kinase) Sphfalx0101s0076 (No Desc) Sphfalx0101s0077 (Protein tyrosine kinase)	0.5811695020065881	Pairs: 1, Sphfalx0101s0075 (Protein tyrosine kinase) Sphfalx0101s0076 (No Desc)	-0.01701936233979476
+C615	PF07714	super_103	320406	412963	7	3	9	Pairs: 32, Sphfalx0103s0021 (Protein tyrosine kinase) Sphfalx0103s0022 (Protein tyrosine kinase) Sphfalx0103s0023 (Protein tyrosine kinase) Sphfalx0103s0024 (No Desc) Sphfalx0103s0025 (Protein tyrosine kinase) Sphfalx0103s0026 (Protein tyrosine kinase) Sphfalx0103s0027 (Pyridoxal-dependent decarboxylase, C-terminal sheet domain) Sphfalx0103s0028 (No Desc) Sphfalx0103s0029 (Protein tyrosine kinase)	0.4978520913891792	Pairs: 4, Sphfalx0103s0021 (Protein tyrosine kinase) Sphfalx0103s0022 (Protein tyrosine kinase) Sphfalx0103s0025 (Protein tyrosine kinase) Sphfalx0103s0026 (Protein tyrosine kinase) Sphfalx0103s0029 (Protein tyrosine kinase)	-0.2078309879270846
+C616	PF07714	super_12	2454202	2481543	2	0	1
+C617	PF07714	super_137	151204	160936	2	0	1
+C618	PF07714	super_141	658445	674517	2	0	1
+C619	PF07714	super_146	435684	463422	2	2	3	Pairs: 3, Sphfalx0146s0027 (No Desc) Sphfalx0146s0028 (No Desc) Sphfalx0146s0029 (Protein tyrosine kinase)	0.7891998499106387	Pairs: 0,	0
+C620	PF07714	super_146	541280	554270	3	0	2	Pairs: 1, Sphfalx0146s0038 (Protein tyrosine kinase) Sphfalx0146s0039 (Protein tyrosine kinase)	0.823148192488142	Pairs: 0,	0
+C621	PF07714	super_152	148671	195990	5	2	6	Pairs: 10, Sphfalx0152s0014 (Protein phosphatase 2C) Sphfalx0152s0015 (Protein tyrosine kinase) Sphfalx0152s0016 (Ribosomal protein L31e) Sphfalx0152s0017 (Protein tyrosine kinase) Sphfalx0152s0018 (No Desc) Sphfalx0152s0019 (Protein kinase domain)	0.536308620021235	Pairs: 5, Sphfalx0152s0015 (Protein tyrosine kinase) Sphfalx0152s0016 (Ribosomal protein L31e) Sphfalx0152s0017 (Protein tyrosine kinase) Sphfalx0152s0018 (No Desc) Sphfalx0152s0019 (Protein kinase domain)	-0.20608167122926008
+C622	PF07714	super_181	460324	478436	2	0	1
+C623	PF07714	super_191	474328	528598	4	0	3	Pairs: 2, Sphfalx0191s0023 (Protein tyrosine kinase) Sphfalx0191s0024 (Protein tyrosine kinase) Sphfalx0191s0025 (Sel1 repeat)	0.4854527711042055	Pairs: 1, Sphfalx0191s0024 (Protein tyrosine kinase) Sphfalx0191s0025 (Sel1 repeat)	-0.019840697727996893
+C624	PF07714	super_20	2904100	2906030	2	0	1
+C625	PF07714	super_225	293816	344997	4	3	6	Pairs: 12, Sphfalx0225s0029 (No Desc) Sphfalx0225s0030 (No Desc) Sphfalx0225s0031 (DDE superfamily endonuclease) Sphfalx0225s0032 (Protein tyrosine kinase) Sphfalx0225s0033 (Protein tyrosine kinase) Sphfalx0225s0034 (Protein tyrosine kinase)	0.42850704115267285	Pairs: 3, Sphfalx0225s0029 (No Desc) Sphfalx0225s0030 (No Desc) Sphfalx0225s0031 (DDE superfamily endonuclease) Sphfalx0225s0033 (Protein tyrosine kinase)	-0.5145312048777756
+C626	PF07727	super_3	3637807	3665478	3	0	2	Pairs: 0,	0	Pairs: 0,	0
+C627	PF07727	super_241	95809	105154	2	0	1
+C628	PF07727	super_34	2472832	2493516	2	1	2	Pairs: 0,	0	Pairs: 0,	0
+C629	PF07727	super_114	822564	845661	2	1	2	Pairs: 1, Sphfalx0114s0051 (GAG-pre-integrase domain) Sphfalx0114s0052 (Zinc knuckle)	0.9751359701298788	Pairs: 0,	0
+C630	PF07727	super_107	97377	126934	2	1	2	Pairs: 1, Sphfalx0107s0011 (Zinc knuckle) Sphfalx0107s0012 (Domain of unknown function (DUF4219))	0.3811274107713804	Pairs: 0,	0
+C631	PF07727	super_118	878116	898960	2	1	2	Pairs: 0,	0	Pairs: 0,	0
+C632	PF07731	super_120	81166	107816	2	0	1
+C633	PF07876	super_93	968964	995540	2	1	2	Pairs: 1, Sphfalx0093s0071 (No Desc) Sphfalx0093s0072 (Stress responsive A/B Barrel Domain)	0.8607538645740913	Pairs: 0,	0
+C634	PF07883	super_8	2049116	2082194	5	1	5	Pairs: 10, Sphfalx0008s0112 (Cupin domain) Sphfalx0008s0113 (No Desc) Sphfalx0008s0114 (Cupin domain) Sphfalx0008s0115 (Cupin domain) Sphfalx0008s0116 (Cupin domain)	0.8516903801971771	Pairs: 0,	0
+C635	PF07883	super_8	1993048	2013945	3	0	2	Pairs: 1, Sphfalx0008s0108 (Cupin domain) Sphfalx0008s0109 (Cupin domain)	0.12859347315892372	Pairs: 0,	0
+C636	PF07883	super_6	1067384	1083165	3	0	2	Pairs: 1, Sphfalx0006s0082 (Cupin domain) Sphfalx0006s0083 (Cupin domain)	0.521213742969672	Pairs: 0,	0
+C637	PF07883	super_563	552	8568	2	0	1
+C638	PF07883	super_62	11944	15917	2	0	1
+C639	PF07883	super_26	1761426	1777655	2	0	1
+C640	PF07883	super_236	138780	170513	3	0	2	Pairs: 1, Sphfalx0236s0009 (Cupin domain) Sphfalx0236s0010 (Cupin domain)	0.36055408513516146	Pairs: 0,	0
+C641	PF07883	super_181	532907	552002	3	0	2	Pairs: 1, Sphfalx0181s0050 (Cupin domain) Sphfalx0181s0051 (Cupin domain)	0.5191900313626279	Pairs: 0,	0
+C642	PF07883	super_176	566101	612830	5	3	7	Pairs: 20, Sphfalx0176s0039 (Cupin domain) Sphfalx0176s0040 (Cupin) Sphfalx0176s0041 (Cupin domain) Sphfalx0176s0042 (Cupin domain) Sphfalx0176s0043 (No Desc) Sphfalx0176s0044 (Cupin) Sphfalx0176s0045 (Cupin domain)	0.5406845635708275	Pairs: 1, Sphfalx0176s0043 (No Desc) Sphfalx0176s0044 (Cupin)	-0.07657639850838943
+C643	PF07883	super_27	774841	799305	3	0	2	Pairs: 1, Sphfalx0027s0059 (Cupin domain) Sphfalx0027s0060 (Cupin domain)	0.6690061948849962	Pairs: 0,	0
+C644	PF07887	super_77	190641	295626	6	0	5	Pairs: 5, Sphfalx0077s0022 (Calmodulin binding protein-like) Sphfalx0077s0023 (Calmodulin binding protein-like) Sphfalx0077s0024 (Calmodulin binding protein-like) Sphfalx0077s0025 (Calmodulin binding protein-like) Sphfalx0077s0026 (Calmodulin binding protein-like)	0.7568708121102107	Pairs: 5, Sphfalx0077s0022 (Calmodulin binding protein-like) Sphfalx0077s0023 (Calmodulin binding protein-like) Sphfalx0077s0024 (Calmodulin binding protein-like) Sphfalx0077s0025 (Calmodulin binding protein-like) Sphfalx0077s0026 (Calmodulin binding protein-like)	-0.13633124892254317
+C645	PF08100	super_52	437298	450416	2	0	1
+C646	PF08100	super_52	1271603	1298471	2	2	3	Pairs: 3, Sphfalx0052s0083 (No Desc) Sphfalx0052s0084 (No Desc) Sphfalx0052s0085 (Dimerisation domain)	0.6684570717181094	Pairs: 0,	0
+C647	PF08100	super_52	1327847	1334902	2	0	1
+C648	PF08100	super_93	223959	249927	2	0	1
+C649	PF08132	super_111	263337	289135	2	1	2	Pairs: 1, Sphfalx0111s0016 (Adenosylmethionine decarboxylase) Sphfalx0111s0017 (S-adenosyl-l-methionine decarboxylase leader peptide)	0.9773854914264276	Pairs: 0,	0
+C650	PF08238	super_1	270460	301554	2	2	3	Pairs: 1, Sphfalx0001s0018 (No Desc) Sphfalx0001s0020 (Sel1 repeat)	0.02680437838146488	Pairs: 0,	0
+C651	PF08238	super_191	497877	528598	3	0	2	Pairs: 0,	0	Pairs: 1, Sphfalx0191s0024 (Protein tyrosine kinase) Sphfalx0191s0025 (Sel1 repeat)	-0.019840697727996893
+C652	PF08240	super_70	733645	786348	7	1	7	Pairs: 21, Sphfalx0070s0050 (Alcohol dehydrogenase GroES-like domain) Sphfalx0070s0051 (Alcohol dehydrogenase GroES-like domain) Sphfalx0070s0052 (No Desc) Sphfalx0070s0053 (Alcohol dehydrogenase GroES-like domain) Sphfalx0070s0054 (Alcohol dehydrogenase GroES-like domain) Sphfalx0070s0055 (Alcohol dehydrogenase GroES-like domain) Sphfalx0070s0056 (Alcohol dehydrogenase GroES-like domain)	0.8231649225334907	Pairs: 0,	0
+C653	PF08240	super_25	2817187	2824060	2	0	1
+C654	PF08240	super_140	354068	376109	2	0	1
+C655	PF08240	super_11	151257	168829	2	1	2	Pairs: 0,	0	Pairs: 1, Sphfalx0011s0016 (Zinc-binding dehydrogenase) Sphfalx0011s0017 (Alcohol dehydrogenase GroES-like domain)	-0.30826815359737264
+C656	PF08244	super_31	634086	685066	3	0	2	Pairs: 1, Sphfalx0031s0044 (Glycosyl hydrolases family 32 C terminal) Sphfalx0031s0045 (Glycosyl hydrolases family 32 C terminal)	0.7200203700816165	Pairs: 0,	0
+C657	PF08263	super_148	652333	732067	4	5	8	Pairs: 20, Sphfalx0148s0031 (Reverse transcriptase (RNA-dependent DNA polymerase)) Sphfalx0148s0032 (No Desc) Sphfalx0148s0033 (Leucine rich repeat N-terminal domain) Sphfalx0148s0034 (Chlorophyll A-B binding protein) Sphfalx0148s0035 (Leucine rich repeat N-terminal domain) Sphfalx0148s0036 (PHD-finger) Sphfalx0148s0037 (No Desc) Sphfalx0148s0038 (Leucine Rich Repeat)	0.37622255675937133	Pairs: 8, Sphfalx0148s0031 (Reverse transcriptase (RNA-dependent DNA polymerase)) Sphfalx0148s0032 (No Desc) Sphfalx0148s0033 (Leucine rich repeat N-terminal domain) Sphfalx0148s0034 (Chlorophyll A-B binding protein) Sphfalx0148s0035 (Leucine rich repeat N-terminal domain) Sphfalx0148s0036 (PHD-finger) Sphfalx0148s0038 (Leucine Rich Repeat)	-0.2285035230829888
+C658	PF08263	super_180	572344	578553	2	0	1
+C659	PF08263	super_245	184427	221487	2	0	1
+C660	PF08263	super_245	258125	284497	2	0	1
+C661	PF08263	super_43	359437	366442	2	0	1
+C662	PF08263	super_66	296959	302939	2	0	1
+C663	PF08370	super_40	401531	427795	2	0	1
+C664	PF08370	super_41	583749	638504	3	0	2	Pairs: 1, Sphfalx0041s0027 (ABC-transporter N-terminal) Sphfalx0041s0028 (ABC-transporter N-terminal)	0.7161404309783383	Pairs: 0,	0
+C665	PF08417	super_281	211818	244943	3	1	3	Pairs: 3, Sphfalx0281s0019 (Pheophorbide a oxygenase) Sphfalx0281s0020 (No Desc) Sphfalx0281s0021 (Pheophorbide a oxygenase)	0.5793908072616435	Pairs: 0,	0
+C666	PF08423	super_146	220150	226178	2	0	1
+C667	PF08450	super_40	111108	148183	3	4	6	Pairs: 11, Sphfalx0040s0012 (No Desc) Sphfalx0040s0013 (No Desc) Sphfalx0040s0014 (No Desc) Sphfalx0040s0015 (No Desc) Sphfalx0040s0016 (SMP-30/Gluconolactonase/LRE-like region) Sphfalx0040s0017 (SMP-30/Gluconolactonase/LRE-like region)	0.5391479052473511	Pairs: 4, Sphfalx0040s0012 (No Desc) Sphfalx0040s0013 (No Desc) Sphfalx0040s0014 (No Desc) Sphfalx0040s0015 (No Desc) Sphfalx0040s0016 (SMP-30/Gluconolactonase/LRE-like region)	-0.3812641515937975
+C668	PF08477	super_20	2996733	3008879	2	0	1
+C669	PF08513	super_40	1187873	1204332	2	1	2	Pairs: 1, Sphfalx0040s0103 (No Desc) Sphfalx0040s0104 (LisH)	0.9662129409581737	Pairs: 0,	0
+C670	PF08627	super_293	37159	45020	2	0	1
+C671	PF08659	super_22	316282	336265	2	0	1
+C672	PF08881	super_207	22125	41763	2	0	1
+C673	PF08881	super_207	95996	133011	6	0	5	Pairs: 7, Sphfalx0207s0006 (CVNH domain) Sphfalx0207s0007 (CVNH domain) Sphfalx0207s0008 (CVNH domain) Sphfalx0207s0009 (CVNH domain) Sphfalx0207s0010 (CVNH domain)	0.38476550703352047	Pairs: 3, Sphfalx0207s0006 (CVNH domain) Sphfalx0207s0007 (CVNH domain) Sphfalx0207s0008 (CVNH domain) Sphfalx0207s0010 (CVNH domain)	-0.41699149737189956
+C674	PF08881	super_275	249462	275537	2	0	1
+C675	PF09118	super_135	535840	553547	2	0	1
+C676	PF09265	super_2	864183	868201	2	0	1
+C677	PF09337	super_5	82169	94437	2	0	1
+C678	PF09337	super_337	17453	29968	2	0	1
+C679	PF09337	super_304	77750	97988	2	0	1
+C680	PF09337	super_160	357055	369309	2	0	1
+C681	PF09337	super_1	6710180	6719692	2	0	1
+C682	PF09337	super_19	2810796	2822574	2	0	1
+C683	PF10067	super_6	932439	963256	4	0	3	Pairs: 2, Sphfalx0006s0071 (Predicted membrane protein (DUF2306)) Sphfalx0006s0072 (Predicted membrane protein (DUF2306)) Sphfalx0006s0073 (Predicted membrane protein (DUF2306))	0.2769616990423147	Pairs: 1, Sphfalx0006s0071 (Predicted membrane protein (DUF2306)) Sphfalx0006s0073 (Predicted membrane protein (DUF2306))	-0.44397551927512585
+C684	PF10235	super_112	409632	426673	2	1	2	Pairs: 0,	0	Pairs: 0,	0
+C685	PF10237	super_130	195852	214665	2	3	4	Pairs: 3, Sphfalx0130s0019 (NAD dependent epimerase/dehydratase family) Sphfalx0130s0020 (No Desc) Sphfalx0130s0021 (3-beta hydroxysteroid dehydrogenase/isomerase family)	0.5259849900664785	Pairs: 3, Sphfalx0130s0019 (NAD dependent epimerase/dehydratase family) Sphfalx0130s0020 (No Desc) Sphfalx0130s0021 (3-beta hydroxysteroid dehydrogenase/isomerase family) Sphfalx0130s0022 (Probable N6-adenine methyltransferase)	-0.41649309409427065
+C686	PF11145	super_462	29	50512	3	0	2	Pairs: 1, Sphfalx0462s0002 (Protein of unknown function (DUF2921)) Sphfalx0462s0003 (Protein of unknown function (DUF2921))	0.6893285254031174	Pairs: 0,	0
+C687	PF11937	super_72	1293571	1322047	2	0	1
+C688	PF11960	super_27	163882	182557	2	0	1
+C689	PF12296	super_193	486923	500454	2	0	1
+C690	PF12348	super_116	866589	889090	2	0	1
+C691	PF12515	super_74	973999	1021040	2	0	1
+C692	PF12695	super_43	382838	397175	2	0	1
+C693	PF12695	super_164	484233	496876	2	1	2	Pairs: 1, Sphfalx0164s0032 (No Desc) Sphfalx0164s0033 (Alpha/beta hydrolase family)	0.6996882713138703	Pairs: 0,	0
+C694	PF12697	super_20	1575508	1586199	2	0	1
+C695	PF12796	super_0	8681508	8704937	2	0	1
+C696	PF12796	super_1	5394393	5472753	5	4	8	Pairs: 13, Sphfalx0001s0346 (Ankyrin repeats (3 copies)) Sphfalx0001s0347 (Trehalose-phosphatase) Sphfalx0001s0349 (Ankyrin repeats (many copies)) Sphfalx0001s0351 (Integrase core domain) Sphfalx0001s0352 (Ankyrin repeats (many copies)) Sphfalx0001s0353 (Ankyrin repeats (3 copies))	0.43310303457161053	Pairs: 2, Sphfalx0001s0347 (Trehalose-phosphatase) Sphfalx0001s0351 (Integrase core domain) Sphfalx0001s0353 (Ankyrin repeats (3 copies))	-0.1480923022962322
+C697	PF12796	super_18	729113	747613	2	0	1
+C698	PF12796	super_22	2597710	2674548	6	2	7	Pairs: 13, Sphfalx0022s0168 (No Desc) Sphfalx0022s0169 (Domain of unknown function) Sphfalx0022s0170 (No Desc) Sphfalx0022s0171 (Domain of unknown function) Sphfalx0022s0172 (Domain of unknown function) Sphfalx0022s0173 (Domain of unknown function) Sphfalx0022s0174 (Ankyrin repeats (3 copies))	0.5356585642419248	Pairs: 8, Sphfalx0022s0168 (No Desc) Sphfalx0022s0169 (Domain of unknown function) Sphfalx0022s0170 (No Desc) Sphfalx0022s0171 (Domain of unknown function) Sphfalx0022s0172 (Domain of unknown function) Sphfalx0022s0173 (Domain of unknown function) Sphfalx0022s0174 (Ankyrin repeats (3 copies))	-0.1251926155951206
+C699	PF12796	super_341	110309	128773	2	3	4	Pairs: 5, Sphfalx0341s0011 (No Desc) Sphfalx0341s0012 (STOP protein) Sphfalx0341s0013 (No Desc) Sphfalx0341s0014 (HIT domain)	0.22438632720928714	Pairs: 1, Sphfalx0341s0013 (No Desc) Sphfalx0341s0014 (HIT domain)	-0.051227545291716886
+C700	PF12796	super_558	22	21659	2	1	2	Pairs: 1, Sphfalx0558s0002 (No Desc) Sphfalx0558s0003 (Domain of unknown function)	0.7939300462755153	Pairs: 0,	0
+C701	PF12796	super_65	96491	122760	2	0	1
+C702	PF12796	super_65	557591	576945	2	1	2	Pairs: 1, Sphfalx0065s0052 (Lytic transglycolase) Sphfalx0065s0053 (Domain of unknown function)	0.5755089175816682	Pairs: 0,	0
+C703	PF12799	super_235	80510	108783	2	1	2	Pairs: 1, Sphfalx0235s0005 (No Desc) Sphfalx0235s0006 (Leucine Rich repeats (2 copies))	0.6174789174643158	Pairs: 0,	0
+C704	PF12799	super_189	137108	149792	2	0	1
+C705	PF12819	super_493	96	36926	2	0	1
+C706	PF12819	super_50	818	27219	2	1	2	Pairs: 1, Sphfalx0050s0002 (Protein tyrosine kinase) Sphfalx0050s0003 (Malectin-like domain)	0.8391690677175041	Pairs: 0,	0
+C707	PF12819	super_115	762201	797961	2	1	2	Pairs: 0,	0	Pairs: 0,	0
+C708	PF12819	super_43	1337271	1382175	2	0	1
+C709	PF12937	super_16	3539905	3560569	2	1	2	Pairs: 0,	0	Pairs: 0,	0
+C710	PF13041	super_68	1261136	1268462	2	0	1
+C711	PF13041	super_55	1632132	1635349	2	0	1
+C712	PF13041	super_411	37804	62163	2	0	1
+C713	PF13041	super_411	13	5303	2	0	1
+C714	PF13041	super_29	554136	583369	2	4	5	Pairs: 4, Sphfalx0029s0041 (Zinc-binding dehydrogenase) Sphfalx0029s0042 (No Desc) Sphfalx0029s0043 (Josephin) Sphfalx0029s0044 (ANTH domain) Sphfalx0029s0045 (Pentatricopeptide repeat domain)	0.5842307125669145	Pairs: 6, Sphfalx0029s0041 (Zinc-binding dehydrogenase) Sphfalx0029s0042 (No Desc) Sphfalx0029s0043 (Josephin) Sphfalx0029s0044 (ANTH domain) Sphfalx0029s0045 (Pentatricopeptide repeat domain)	-0.3017064884288944
+C715	PF13041	super_46	228921	231392	2	0	1
+C716	PF13041	super_242	271379	281493	2	0	1
+C717	PF13041	super_24	1387907	1402733	2	1	2	Pairs: 1, Sphfalx0024s0084 (50S ribosome-binding GTPase) Sphfalx0024s0085 (DYW family of nucleic acid deaminases)	0.8777494375475885	Pairs: 0,	0
+C718	PF13041	super_15	276634	286562	2	1	1
+C719	PF13041	super_132	196625	205343	2	0	1
+C720	PF13041	super_0	4724093	4742146	2	1	2	Pairs: 1, Sphfalx0000s0313 (RNase P subunit p30) Sphfalx0000s0314 (PPR repeat)	0.747930270676908	Pairs: 0,	0
+C721	PF13041	super_25	2596993	2620555	2	1	2	Pairs: 1, Sphfalx0025s0200 (Leucine rich repeat) Sphfalx0025s0201 (PPR repeat family )	0.3638647994865725	Pairs: 0,	0
+C722	PF13086	super_23	322494	355885	2	0	1
+C723	PF13087	super_23	322494	355885	2	0	1
+C724	PF13091	super_16	2638431	2657799	2	1	2	Pairs: 0,	0	Pairs: 1, Sphfalx0016s0208 (No Desc) Sphfalx0016s0209 (PLD-like domain)	-0.06089267865231907
+C725	PF13129	super_87	81153	95238	2	0	1
+C726	PF13193	super_78	207910	231694	2	0	1
+C727	PF13347	super_141	506640	528443	2	0	1
+C728	PF13360	super_153	475847	516901	3	2	4	Pairs: 3, Sphfalx0153s0031 (PQQ-like domain) Sphfalx0153s0032 (No Desc) Sphfalx0153s0033 (PQQ-like domain)	0.48429443907039826	Pairs: 0,	0
+C729	PF13360	super_91	527986	533224	2	0	1
+C730	PF13371	super_97	522188	528091	2	0	1
+C731	PF13371	super_77	1347309	1395005	3	0	2	Pairs: 1, Sphfalx0077s0104 (Tetratricopeptide repeat) Sphfalx0077s0105 (Tetratricopeptide repeat)	0.6282945702971481	Pairs: 0,	0
+C732	PF13371	super_98	731944	740163	2	0	1
+C733	PF13371	super_127	883192	892192	2	0	1
+C734	PF13371	super_49	982451	1010681	2	1	2	Pairs: 1, Sphfalx0049s0063 (No Desc) Sphfalx0049s0064 (Protein kinase domain)	0.6222928000651788	Pairs: 0,	0
+C735	PF13409	super_12	2955453	2965769	2	0	1
+C736	PF13410	super_12	2955453	2965769	2	0	1
+C737	PF13410	super_263	218863	255681	3	2	4	Pairs: 4, Sphfalx0263s0017 (Met-10+ like-protein) Sphfalx0263s0018 (Nucleotide-diphospho-sugar transferase) Sphfalx0263s0019 (Glutathione S-transferase, C-terminal domain) Sphfalx0263s0020 (Glutathione S-transferase, C-terminal domain)	0.675134976651224	Pairs: 2, Sphfalx0263s0017 (Met-10+ like-protein) Sphfalx0263s0018 (Nucleotide-diphospho-sugar transferase) Sphfalx0263s0020 (Glutathione S-transferase, C-terminal domain)	-0.04235161261309543
+C738	PF13414	super_4	3676105	3685690	2	0	1
+C739	PF13414	super_46	82439	101146	2	0	1
+C740	PF13417	super_97	408615	417656	2	1	1
+C741	PF13489	super_130	166517	217166	3	7	9	Pairs: 22, Sphfalx0130s0015 (Probable N6-adenine methyltransferase) Sphfalx0130s0016 (NAD dependent epimerase/dehydratase family) Sphfalx0130s0017 (Methyltransferase domain) Sphfalx0130s0018 (Probable N6-adenine methyltransferase) Sphfalx0130s0019 (NAD dependent epimerase/dehydratase family) Sphfalx0130s0020 (No Desc) Sphfalx0130s0021 (3-beta hydroxysteroid dehydrogenase/isomerase family) Sphfalx0130s0022 (Probable N6-adenine methyltransferase) Sphfalx0130s0023 (Methyltransferase domain)	0.6749508258280887	Pairs: 14, Sphfalx0130s0015 (Probable N6-adenine methyltransferase) Sphfalx0130s0016 (NAD dependent epimerase/dehydratase family) Sphfalx0130s0017 (Methyltransferase domain) Sphfalx0130s0018 (Probable N6-adenine methyltransferase) Sphfalx0130s0019 (NAD dependent epimerase/dehydratase family) Sphfalx0130s0020 (No Desc) Sphfalx0130s0021 (3-beta hydroxysteroid dehydrogenase/isomerase family) Sphfalx0130s0022 (Probable N6-adenine methyltransferase) Sphfalx0130s0023 (Methyltransferase domain)	-0.5624045040679688
+C742	PF13499	super_34	941432	970281	2	1	2	Pairs: 0,	0	Pairs: 1, Sphfalx0034s0078 (Protein of unknown function (DUF677)) Sphfalx0034s0079 (EF-hand domain pair)	-0.2928947730496385
+C743	PF13499	super_40	1093727	1120336	2	2	3	Pairs: 3, Sphfalx0040s0093 (Protein of unknown function (DUF677)) Sphfalx0040s0094 (No Desc) Sphfalx0040s0095 (Protein tyrosine kinase)	0.5975549594917636	Pairs: 0,	0
+C744	PF13561	super_84	1054718	1076889	2	1	2	Pairs: 1, Sphfalx0084s0056 (No Desc) Sphfalx0084s0057 (Enoyl-(Acyl carrier protein) reductase)	0.2221146114662472	Pairs: 0,	0
+C745	PF13561	super_7	5043117	5053399	2	0	1
+C746	PF13561	super_57	1581216	1608964	2	0	1
+C747	PF13561	super_21	2563537	2582713	2	0	1
+C748	PF13561	super_127	392846	456673	5	0	4	Pairs: 6, Sphfalx0127s0024 (Enoyl-(Acyl carrier protein) reductase) Sphfalx0127s0025 (Enoyl-(Acyl carrier protein) reductase) Sphfalx0127s0026 (Enoyl-(Acyl carrier protein) reductase) Sphfalx0127s0027 (Enoyl-(Acyl carrier protein) reductase)	0.7320932463185432	Pairs: 0,	0
+C749	PF13561	super_127	261275	299047	4	0	3	Pairs: 3, Sphfalx0127s0014 (Enoyl-(Acyl carrier protein) reductase) Sphfalx0127s0015 (Enoyl-(Acyl carrier protein) reductase) Sphfalx0127s0016 (Enoyl-(Acyl carrier protein) reductase)	0.3573213439928969	Pairs: 0,	0
+C750	PF13561	super_154	264563	278153	2	0	1
+C751	PF13632	super_275	127802	152552	2	0	1
+C752	PF13637	super_1	5442028	5467097	2	2	3	Pairs: 1, Sphfalx0001s0351 (Integrase core domain) Sphfalx0001s0352 (Ankyrin repeats (many copies))	0.14978467886106006	Pairs: 0,	0
+C753	PF13639	super_22	1852381	1886626	2	0	1
+C754	PF13650	super_1	6710180	6719692	2	0	1
+C755	PF13650	super_19	2810796	2822574	2	0	1
+C756	PF13668	super_159	567437	585485	2	0	1
+C757	PF13672	super_12	680202	703922	2	0	1
+C758	PF13672	super_126	562139	578980	2	0	1
+C759	PF13672	super_47	781044	796068	2	0	1
+C760	PF13676	super_0	11057937	11083956	2	0	1
+C761	PF13774	super_137	316150	324046	2	0	1
+C762	PF13833	super_170	585699	599836	2	0	1
+C763	PF13837	super_268	22874	47183	2	0	1
+C764	PF13839	super_2	262978	278053	2	1	2	Pairs: 0,	0	Pairs: 1, Sphfalx0002s0020 (ATPase family associated with various cellular activities (AAA)) Sphfalx0002s0021 (PMR5 N terminal Domain)	-0.0560551704454227
+C765	PF13855	super_0	6008385	6073549	3	2	4	Pairs: 5, Sphfalx0000s0398 (Uncharacterized protein family UPF0016) Sphfalx0000s0399 (Protein kinase domain) Sphfalx0000s0400 (Leucine rich repeat) Sphfalx0000s0401 (Leucine rich repeat)	0.589411438051829	Pairs: 1, Sphfalx0000s0398 (Uncharacterized protein family UPF0016) Sphfalx0000s0399 (Protein kinase domain)	-0.08420608724858766
+C766	PF13855	super_0	6161326	6191327	2	0	1
+C767	PF13855	super_11	2340319	2371552	2	0	1
+C768	PF13855	super_148	652333	732067	4	5	8	Pairs: 20, Sphfalx0148s0031 (Reverse transcriptase (RNA-dependent DNA polymerase)) Sphfalx0148s0032 (No Desc) Sphfalx0148s0033 (Leucine rich repeat N-terminal domain) Sphfalx0148s0034 (Chlorophyll A-B binding protein) Sphfalx0148s0035 (Leucine rich repeat N-terminal domain) Sphfalx0148s0036 (PHD-finger) Sphfalx0148s0037 (No Desc) Sphfalx0148s0038 (Leucine Rich Repeat)	0.37622255675937133	Pairs: 8, Sphfalx0148s0031 (Reverse transcriptase (RNA-dependent DNA polymerase)) Sphfalx0148s0032 (No Desc) Sphfalx0148s0033 (Leucine rich repeat N-terminal domain) Sphfalx0148s0034 (Chlorophyll A-B binding protein) Sphfalx0148s0035 (Leucine rich repeat N-terminal domain) Sphfalx0148s0036 (PHD-finger) Sphfalx0148s0038 (Leucine Rich Repeat)	-0.2285035230829888
+C769	PF13855	super_66	296959	302939	2	0	1
+C770	PF13911	super_144	170107	178978	2	0	1
+C771	PF13920	super_40	600326	619969	2	2	2	Pairs: 0,	0	Pairs: 1, Sphfalx0040s0054 (No Desc) Sphfalx0040s0055 (Zinc finger, C3HC4 type (RING finger))	-0.07017485941573022
+C772	PF13920	super_6	4129597	4164262	2	1	2	Pairs: 0,	0	Pairs: 1, Sphfalx0006s0313 (Helitron helicase-like domain at N-terminus) Sphfalx0006s0314 (Zinc finger, C3HC4 type (RING finger))	-0.01476980270518253
+C773	PF13952	super_14	2991453	3011875	2	3	4	Pairs: 6, Sphfalx0014s0193 (Transposase-associated domain) Sphfalx0014s0194 (No Desc) Sphfalx0014s0195 (No Desc) Sphfalx0014s0196 (Domain of unknown function (DUF4216))	0.6870657697427348	Pairs: 0,	0
+C774	PF13960	super_14	2991453	3011875	2	3	4	Pairs: 6, Sphfalx0014s0193 (Transposase-associated domain) Sphfalx0014s0194 (No Desc) Sphfalx0014s0195 (No Desc) Sphfalx0014s0196 (Domain of unknown function (DUF4216))	0.6870657697427348	Pairs: 0,	0
+C775	PF13960	super_0	7635976	7664884	2	3	3	Pairs: 3, Sphfalx0000s0503 (Leucine rich repeat) Sphfalx0000s0504 (No Desc) Sphfalx0000s0505 (Domain of unknown function (DUF4218))	0.22942127413587568	Pairs: 0,	0
+C776	PF13960	super_103	751339	782214	2	4	5	Pairs: 10, Sphfalx0103s0053 (No Desc) Sphfalx0103s0054 (No Desc) Sphfalx0103s0055 (No Desc) Sphfalx0103s0056 (No Desc) Sphfalx0103s0057 (Domain of unknown function (DUF4218))	0.5907797529022558	Pairs: 0,	0
+C777	PF13961	super_107	113692	135809	3	0	2	Pairs: 0,	0	Pairs: 0,	0
+C778	PF13961	super_118	881809	898960	2	0	1
+C779	PF13961	super_175	18640	23887	2	0	1
+C780	PF13961	super_185	11372	33527	2	2	3	Pairs: 1, Sphfalx0185s0004 (Zinc knuckle) Sphfalx0185s0005 (Zinc knuckle)	0.9453444078733813	Pairs: 0,	0
+C781	PF13961	super_241	101778	121580	2	0	1
+C782	PF13961	super_295	218717	224164	2	0	1
+C783	PF13961	super_3	3657115	3665478	2	0	1
+C784	PF13961	super_34	2506627	2523764	2	0	1
+C785	PF13962	super_65	96491	122760	2	0	1
+C786	PF13962	super_63	270327	301902	3	0	2	Pairs: 1, Sphfalx0063s0018 (Domain of unknown function) Sphfalx0063s0019 (Domain of unknown function)	0.9274438227533994	Pairs: 0,	0
+C787	PF13962	super_558	22	21659	2	1	2	Pairs: 1, Sphfalx0558s0002 (No Desc) Sphfalx0558s0003 (Domain of unknown function)	0.7939300462755153	Pairs: 0,	0
+C788	PF13962	super_176	330819	357073	2	0	1
+C789	PF13962	super_0	8681508	8704937	2	0	1
+C790	PF13962	super_22	2597710	2663542	5	2	6	Pairs: 10, Sphfalx0022s0168 (No Desc) Sphfalx0022s0169 (Domain of unknown function) Sphfalx0022s0170 (No Desc) Sphfalx0022s0171 (Domain of unknown function) Sphfalx0022s0172 (Domain of unknown function) Sphfalx0022s0173 (Domain of unknown function)	0.570071222144176	Pairs: 5, Sphfalx0022s0168 (No Desc) Sphfalx0022s0169 (Domain of unknown function) Sphfalx0022s0170 (No Desc) Sphfalx0022s0171 (Domain of unknown function) Sphfalx0022s0172 (Domain of unknown function) Sphfalx0022s0173 (Domain of unknown function)	-0.06759805843197234
+C791	PF13976	super_3	3627943	3661135	3	0	2	Pairs: 0,	0	Pairs: 1, Sphfalx0003s0268 (GAG-pre-integrase domain) Sphfalx0003s0269 (Domain of unknown function (DUF4219))	-0.06666666666666667
+C792	PF13976	super_61	1797887	1805025	2	0	1
+C793	PF13976	super_58	1463214	1470749	2	0	1
+C794	PF13976	super_567	3185	18812	2	1	2	Pairs: 0,	0	Pairs: 0,	0
+C795	PF13976	super_439	49228	62026	3	0	2	Pairs: 0,	0	Pairs: 0,	0
+C796	PF13976	super_391	531	28510	3	0	2	Pairs: 0,	0	Pairs: 0,	0
+C797	PF13976	super_386	87227	94679	2	0	1
+C798	PF13976	super_34	2475479	2493516	2	1	1
+C799	PF13976	super_302	211037	217845	2	0	1
+C800	PF13976	super_282	77156	90734	3	1	3	Pairs: 0,	0	Pairs: 0,	0
+C801	PF13976	super_241	95809	144510	5	0	4	Pairs: 1, Sphfalx0241s0009 (Domain of unknown function (DUF4219)) Sphfalx0241s0011 (GAG-pre-integrase domain)	0.9592154182825077	Pairs: 0,	0
+C802	PF13976	super_188	197305	209441	2	1	2	Pairs: 0,	0	Pairs: 0,	0
+C803	PF13976	super_185	30630	35899	2	0	1
+C804	PF13976	super_13	534622	556268	3	1	3	Pairs: 1, Sphfalx0013s0046 (GAG-pre-integrase domain) Sphfalx0013s0048 (GAG-pre-integrase domain)	0.9566686418332481	Pairs: 0,	0
+C805	PF13976	super_118	878116	898960	2	1	2	Pairs: 0,	0	Pairs: 0,	0
+C806	PF13976	super_114	1005712	1011753	2	0	1
+C807	PF13976	super_114	822564	845661	3	0	2	Pairs: 1, Sphfalx0114s0051 (GAG-pre-integrase domain) Sphfalx0114s0052 (Zinc knuckle)	0.9751359701298788	Pairs: 0,	0
+C808	PF13976	super_107	80431	138752	6	2	7	Pairs: 15, Sphfalx0107s0008 (GAG-pre-integrase domain) Sphfalx0107s0009 (No Desc) Sphfalx0107s0010 (GAG-pre-integrase domain) Sphfalx0107s0011 (Zinc knuckle) Sphfalx0107s0012 (Domain of unknown function (DUF4219)) Sphfalx0107s0014 (Zinc knuckle)	0.6287577270601507	Pairs: 0,	0
+C809	PF14009	super_124	737790	745606	2	0	1
+C810	PF14009	super_228	197650	227530	2	0	1
+C811	PF14144	super_130	112274	128578	2	0	1
+C812	PF14214	super_226	2559	7851	2	0	1
+C813	PF14223	super_387	76165	91662	2	0	1
+C814	PF14223	super_444	240	14692	2	1	2	Pairs: 0,	0	Pairs: 0,	0
+C815	PF14223	super_241	142463	171213	2	1	2	Pairs: 0,	0	Pairs: 0,	0
+C816	PF14223	super_282	69692	86386	2	2	3	Pairs: 1, Sphfalx0282s0006 (Zinc knuckle) Sphfalx0282s0008 (Zinc knuckle)	0.6561324550689052	Pairs: 0,	0
+C817	PF14226	super_127	557399	595536	3	0	2	Pairs: 1, Sphfalx0127s0033 (non-haem dioxygenase in morphine synthesis N-terminal) Sphfalx0127s0034 (non-haem dioxygenase in morphine synthesis N-terminal)	0.8648394410831132	Pairs: 0,	0
+C818	PF14226	super_152	224838	245758	2	2	3	Pairs: 3, Sphfalx0152s0025 (No Desc) Sphfalx0152s0026 (Alanine racemase, N-terminal domain) Sphfalx0152s0027 (non-haem dioxygenase in morphine synthesis N-terminal)	0.5975436074918534	Pairs: 0,	0
+C819	PF14226	super_25	751392	772573	2	1	2	Pairs: 1, Sphfalx0025s0060 (NUDIX domain) Sphfalx0025s0061 (2OG-Fe(II) oxygenase superfamily)	0.8412905572115399	Pairs: 0,	0
+C820	PF14226	super_37	794762	828978	3	1	3	Pairs: 1, Sphfalx0037s0046 (non-haem dioxygenase in morphine synthesis N-terminal) Sphfalx0037s0048 (non-haem dioxygenase in morphine synthesis N-terminal)	0.5139609567213026	Pairs: 0,	0
+C821	PF14227	super_302	207937	212869	2	0	1
+C822	PF14227	super_34	2472832	2477827	2	0	1
+C823	PF14227	super_34	2506627	2531105	2	1	2	Pairs: 0,	0	Pairs: 0,	0
+C824	PF14227	super_386	87227	94679	2	0	1
+C825	PF14227	super_567	7463	18812	2	0	1
+C826	PF14227	super_439	49228	62026	3	0	2	Pairs: 0,	0	Pairs: 0,	0
+C827	PF14227	super_3	3627943	3665478	4	0	3	Pairs: 0,	0	Pairs: 1, Sphfalx0003s0268 (GAG-pre-integrase domain) Sphfalx0003s0269 (Domain of unknown function (DUF4219))	-0.06666666666666667
+C828	PF14227	super_61	1783751	1809815	3	1	3	Pairs: 0,	0	Pairs: 1, Sphfalx0061s0122 (GAG-pre-integrase domain) Sphfalx0061s0124 (Zinc knuckle)	-0.28609992370264375
+C829	PF14227	super_83	1397574	1407582	2	0	1
+C830	PF14227	super_391	531	28510	3	0	2	Pairs: 0,	0	Pairs: 0,	0
+C831	PF14227	super_282	39418	107780	6	3	8	Pairs: 1, Sphfalx0282s0006 (Zinc knuckle) Sphfalx0282s0008 (Zinc knuckle)	0.6561324550689052	Pairs: 2, Sphfalx0282s0004 (No Desc) Sphfalx0282s0006 (Zinc knuckle) Sphfalx0282s0008 (Zinc knuckle)	-0.20315711526622615
+C832	PF14227	super_76	1113	6655	2	0	1
+C833	PF14227	super_205	208651	214157	2	0	1
+C834	PF14227	super_114	822564	845661	3	0	2	Pairs: 1, Sphfalx0114s0051 (GAG-pre-integrase domain) Sphfalx0114s0052 (Zinc knuckle)	0.9751359701298788	Pairs: 0,	0
+C835	PF14227	super_118	878116	898960	2	1	2	Pairs: 0,	0	Pairs: 0,	0
+C836	PF14227	super_13	534622	556268	4	0	3	Pairs: 1, Sphfalx0013s0046 (GAG-pre-integrase domain) Sphfalx0013s0048 (GAG-pre-integrase domain)	0.9566686418332481	Pairs: 0,	0
+C837	PF14227	super_145	781401	795628	2	0	1
+C838	PF14227	super_107	80431	138752	5	3	7	Pairs: 15, Sphfalx0107s0008 (GAG-pre-integrase domain) Sphfalx0107s0009 (No Desc) Sphfalx0107s0010 (GAG-pre-integrase domain) Sphfalx0107s0011 (Zinc knuckle) Sphfalx0107s0012 (Domain of unknown function (DUF4219)) Sphfalx0107s0014 (Zinc knuckle)	0.6287577270601507	Pairs: 0,	0
+C839	PF14227	super_175	5497	23887	3	1	3	Pairs: 0,	0	Pairs: 0,	0
+C840	PF14227	super_185	1143	33527	5	0	4	Pairs: 1, Sphfalx0185s0004 (Zinc knuckle) Sphfalx0185s0005 (Zinc knuckle)	0.9453444078733813	Pairs: 0,	0
+C841	PF14227	super_188	193653	230898	5	1	5	Pairs: 1, Sphfalx0188s0009 (GAG-pre-integrase domain) Sphfalx0188s0011 (Zinc knuckle)	0.5019774465174213	Pairs: 0,	0
+C842	PF14227	super_147	453530	498735	5	0	4	Pairs: 3, Sphfalx0147s0029 (Zinc knuckle) Sphfalx0147s0030 (Domain of unknown function (DUF4219)) Sphfalx0147s0031 (Zinc knuckle)	0.43241743351032386	Pairs: 0,	0
+C843	PF14227	super_241	95809	131989	4	0	3	Pairs: 0,	0	Pairs: 0,	0
+C844	PF14244	super_0	2763552	2779458	2	0	1
+C845	PF14368	super_30	2247144	2288919	5	1	5	Pairs: 5, Sphfalx0030s0151 (Probable lipid transfer) Sphfalx0030s0152 (Probable lipid transfer) Sphfalx0030s0153 (Probable lipid transfer) Sphfalx0030s0154 (Probable lipid transfer)	0.24789171346153732	Pairs: 1, Sphfalx0030s0152 (Probable lipid transfer) Sphfalx0030s0154 (Probable lipid transfer)	-0.2785008507502099
+C846	PF14379	super_140	536327	564569	2	0	1
+C847	PF14379	super_173	291588	316892	2	1	2	Pairs: 1, Sphfalx0173s0029 (No Desc) Sphfalx0173s0030 (Myb-like DNA-binding domain)	0.8843451899699596	Pairs: 0,	0
+C848	PF14416	super_2	262978	278053	2	1	2	Pairs: 0,	0	Pairs: 1, Sphfalx0002s0020 (ATPase family associated with various cellular activities (AAA)) Sphfalx0002s0021 (PMR5 N terminal Domain)	-0.0560551704454227
+C849	PF14432	super_411	13	5303	2	0	1
+C850	PF14432	super_68	1261136	1268462	2	0	1
+C851	PF14432	super_411	37804	62163	2	0	1
+C852	PF14432	super_24	1387907	1402733	2	1	2	Pairs: 1, Sphfalx0024s0084 (50S ribosome-binding GTPase) Sphfalx0024s0085 (DYW family of nucleic acid deaminases)	0.8777494375475885	Pairs: 0,	0
+C853	PF14432	super_103	874194	890409	2	0	1
+C854	PF14432	super_197	358902	382931	2	1	2	Pairs: 0,	0	Pairs: 0,	0
+C855	PF14476	super_173	353800	365294	2	1	2	Pairs: 1, Sphfalx0173s0034 (No Desc) Sphfalx0173s0035 (Petal formation-expressed)	0.8555103539120494	Pairs: 0,	0
+C856	PF14476	super_173	442205	451472	2	1	2	Pairs: 1, Sphfalx0173s0045 (No Desc) Sphfalx0173s0046 (Petal formation-expressed)	0.04968140614889668	Pairs: 0,	0
+C857	PF14476	super_54	500773	506569	2	0	1
+C858	PF14476	super_54	627873	641223	2	0	1
+C859	PF14476	super_54	687169	709361	4	0	3	Pairs: 3, Sphfalx0054s0051 (Petal formation-expressed) Sphfalx0054s0052 (Petal formation-expressed) Sphfalx0054s0053 (Petal formation-expressed)	0.9423300633625367	Pairs: 0,	0
+C860	PF14510	super_41	583749	638504	3	0	2	Pairs: 1, Sphfalx0041s0027 (ABC-transporter N-terminal) Sphfalx0041s0028 (ABC-transporter N-terminal)	0.7161404309783383	Pairs: 0,	0
+C861	PF14510	super_40	401531	427795	2	0	1
+C862	PF15491	super_386	54136	56707	2	0	1
+C863	PF16095	super_109	577032	601365	2	0	1
+C864	PF16095	super_121	903411	936231	2	0	1
+C865	PF16095	super_31	710371	742862	2	0	1
+C866	PF16095	super_39	785379	810417	2	2	3	Pairs: 2, Sphfalx0039s0054 (No Desc) Sphfalx0039s0055 (No Desc) Sphfalx0039s0056 (C-terminal of Roc, COR, domain)	0.4895179423608781	Pairs: 1, Sphfalx0039s0054 (No Desc) Sphfalx0039s0055 (No Desc)	-0.2612645506351791
+C867	PF16095	super_437	13937	44310	2	2	3	Pairs: 3, Sphfalx0437s0002 (Clp protease) Sphfalx0437s0003 (Protein tyrosine kinase) Sphfalx0437s0004 (C-terminal of Roc, COR, domain)	0.13340320939024217	Pairs: 0,	0
+C868	PF16123	super_107	777646	796524	2	0	1
+C869	PF16916	super_279	71261	80649	2	0	1
+C870	PF16953	super_6	3202914	3235095	2	1	2	Pairs: 1, Sphfalx0006s0232 (Protein tyrosine kinase) Sphfalx0006s0233 (Pentatricopeptide repeat domain)	0.14455969056867757	Pairs: 0,	0
